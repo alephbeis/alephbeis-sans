@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.1">
+  <GlyphOrder src="AlephbeisSans-ExtraBold.GlyphOrder.ttx"/>
+  <head src="AlephbeisSans-ExtraBold._h_e_a_d.ttx"/>
+  <hhea src="AlephbeisSans-ExtraBold._h_h_e_a.ttx"/>
+  <maxp src="AlephbeisSans-ExtraBold._m_a_x_p.ttx"/>
+  <OS_2 src="AlephbeisSans-ExtraBold.O_S_2f_2.ttx"/>
+  <hmtx src="AlephbeisSans-ExtraBold._h_m_t_x.ttx"/>
+  <cmap src="AlephbeisSans-ExtraBold._c_m_a_p.ttx"/>
+  <fpgm src="AlephbeisSans-ExtraBold._f_p_g_m.ttx"/>
+  <prep src="AlephbeisSans-ExtraBold._p_r_e_p.ttx"/>
+  <cvt src="AlephbeisSans-ExtraBold._c_v_t.ttx"/>
+  <loca src="AlephbeisSans-ExtraBold._l_o_c_a.ttx"/>
+  <glyf src="AlephbeisSans-ExtraBold._g_l_y_f.ttx"/>
+  <name src="AlephbeisSans-ExtraBold._n_a_m_e.ttx"/>
+  <post src="AlephbeisSans-ExtraBold._p_o_s_t.ttx"/>
+  <gasp src="AlephbeisSans-ExtraBold._g_a_s_p.ttx"/>
+  <GDEF src="AlephbeisSans-ExtraBold.G_D_E_F_.ttx"/>
+  <GPOS src="AlephbeisSans-ExtraBold.G_P_O_S_.ttx"/>
+  <GSUB src="AlephbeisSans-ExtraBold.G_S_U_B_.ttx"/>
+  <DSIG src="AlephbeisSans-ExtraBold.D_S_I_G_.ttx"/>
+</ttFont>

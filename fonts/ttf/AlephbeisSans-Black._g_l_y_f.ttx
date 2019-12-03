@@ -1,0 +1,4465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.1">
+
+  <glyf>
+
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+
+    <TTGlyph name=".notdef" xMin="50" yMin="-250" xMax="450" yMax="750">
+      <contour>
+        <pt x="50" y="-250" on="1"/>
+        <pt x="450" y="-250" on="1"/>
+        <pt x="450" y="750" on="1"/>
+        <pt x="50" y="750" on="1"/>
+      </contour>
+      <contour>
+        <pt x="100" y="-200" on="1"/>
+        <pt x="100" y="700" on="1"/>
+        <pt x="400" y="700" on="1"/>
+        <pt x="400" y="-200" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 38 values pushed */
+          0 1 0 2 3 1 2 103 4 1 3 0 0 3 87 4 1 3 3 0 95 0 0 3 0
+          79 4 4 4 7 4 7 18 17 16 5 6 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="Euro" xMin="11" yMin="-30" xMax="524" yMax="630">
+      <contour>
+        <pt x="11" y="214" on="1"/>
+        <pt x="31" y="294" on="1"/>
+        <pt x="93" y="294" on="1"/>
+        <pt x="93" y="303" on="0"/>
+        <pt x="93" y="313" on="1"/>
+        <pt x="43" y="313" on="1"/>
+        <pt x="63" y="393" on="1"/>
+        <pt x="104" y="393" on="1"/>
+        <pt x="126" y="473" on="0"/>
+        <pt x="251" y="578" on="0"/>
+        <pt x="426" y="630" on="0"/>
+        <pt x="524" y="630" on="1"/>
+        <pt x="524" y="420" on="1"/>
+        <pt x="461" y="420" on="0"/>
+        <pt x="367" y="407" on="0"/>
+        <pt x="338" y="393" on="1"/>
+        <pt x="489" y="393" on="1"/>
+        <pt x="469" y="313" on="1"/>
+        <pt x="283" y="313" on="1"/>
+        <pt x="283" y="303" on="0"/>
+        <pt x="284" y="294" on="1"/>
+        <pt x="463" y="294" on="1"/>
+        <pt x="443" y="214" on="1"/>
+        <pt x="333" y="214" on="1"/>
+        <pt x="364" y="195" on="0"/>
+        <pt x="460" y="180" on="0"/>
+        <pt x="524" y="180" on="1"/>
+        <pt x="524" y="-30" on="1"/>
+        <pt x="431" y="-30" on="0"/>
+        <pt x="259" y="22" on="0"/>
+        <pt x="132" y="130" on="0"/>
+        <pt x="107" y="214" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 67 values pushed */
+          0 3 0 4 2 3 4 105 5 1 2 6 1 1 0 2 1 103 7 1 0 12 11 2 8
+          9 0 8 103 0 9 10 10 9 89 0 9 9 10 97 0 10 9 10 81 0 0 0 31 0
+          31 28 27 26 25 17 18 17 18 17 19 17 18 17 13 6 31
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="arrowboth" xMin="4" yMin="-41" xMax="1059" yMax="599">
+      <contour>
+        <pt x="327" y="-41" on="1"/>
+        <pt x="4" y="279" on="1"/>
+        <pt x="327" y="599" on="1"/>
+        <pt x="475" y="463" on="1"/>
+        <pt x="380" y="374" on="1"/>
+        <pt x="683" y="374" on="1"/>
+        <pt x="588" y="463" on="1"/>
+        <pt x="736" y="599" on="1"/>
+        <pt x="1059" y="279" on="1"/>
+        <pt x="736" y="-41" on="1"/>
+        <pt x="588" y="95" on="1"/>
+        <pt x="683" y="184" on="1"/>
+        <pt x="380" y="184" on="1"/>
+        <pt x="475" y="95" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 41 values pushed */
+          8 1 2 1 0 1 76 7 6 3 2 4 0 74 13 10 9 3 1 73 0 0 1 1 0
+          87 0 0 0 1 95 0 1 0 1 79 22 20 2 6 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="arrowdown" xMin="12" yMin="-122" xMax="652" yMax="556">
+      <contour>
+        <pt x="332" y="-122" on="1"/>
+        <pt x="12" y="201" on="1"/>
+        <pt x="148" y="349" on="1"/>
+        <pt x="237" y="254" on="1"/>
+        <pt x="237" y="556" on="1"/>
+        <pt x="427" y="556" on="1"/>
+        <pt x="427" y="254" on="1"/>
+        <pt x="516" y="349" on="1"/>
+        <pt x="652" y="201" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 17 values pushed */
+          8 7 6 3 2 1 6 0 73 0 0 0 118 20 1 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="arrowleft" xMin="4" yMin="-34" xMax="682" yMax="606">
+      <contour>
+        <pt x="327" y="-34" on="1"/>
+        <pt x="4" y="286" on="1"/>
+        <pt x="327" y="606" on="1"/>
+        <pt x="475" y="470" on="1"/>
+        <pt x="380" y="381" on="1"/>
+        <pt x="682" y="381" on="1"/>
+        <pt x="682" y="191" on="1"/>
+        <pt x="380" y="191" on="1"/>
+        <pt x="475" y="102" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 36 values pushed */
+          1 1 1 0 1 76 3 2 2 0 74 8 1 1 73 0 0 1 1 0 87 0 0 0 1
+          95 0 1 0 1 79 17 20 2 6 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="arrowright" xMin="12" yMin="-34" xMax="690" yMax="606">
+      <contour>
+        <pt x="12" y="191" on="1"/>
+        <pt x="12" y="381" on="1"/>
+        <pt x="314" y="381" on="1"/>
+        <pt x="219" y="470" on="1"/>
+        <pt x="367" y="606" on="1"/>
+        <pt x="690" y="286" on="1"/>
+        <pt x="367" y="-34" on="1"/>
+        <pt x="219" y="102" on="1"/>
+        <pt x="314" y="191" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 43 values pushed */
+          5 1 1 0 1 76 4 3 2 0 74 7 6 2 1 73 0 0 1 1 0 87 0 0 0
+          1 95 2 1 1 0 1 79 0 0 0 8 0 8 17 3 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="arrowup" xMin="12" yMin="0" xMax="652" yMax="678">
+      <contour>
+        <pt x="237" y="0" on="1"/>
+        <pt x="237" y="302" on="1"/>
+        <pt x="148" y="207" on="1"/>
+        <pt x="12" y="355" on="1"/>
+        <pt x="332" y="678" on="1"/>
+        <pt x="652" y="355" on="1"/>
+        <pt x="516" y="207" on="1"/>
+        <pt x="427" y="302" on="1"/>
+        <pt x="427" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 24 values pushed */
+          7 6 5 4 3 2 1 7 0 74 1 1 0 0 118 0 0 0 8 0 8 2 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="arrowupdn" xMin="12" yMin="-188" xMax="592" yMax="757">
+      <contour>
+        <pt x="302" y="-188" on="1"/>
+        <pt x="12" y="105" on="1"/>
+        <pt x="148" y="253" on="1"/>
+        <pt x="207" y="189" on="1"/>
+        <pt x="207" y="380" on="1"/>
+        <pt x="148" y="316" on="1"/>
+        <pt x="12" y="464" on="1"/>
+        <pt x="207" y="661" on="1"/>
+        <pt x="207" y="665" on="1"/>
+        <pt x="211" y="665" on="1"/>
+        <pt x="302" y="757" on="1"/>
+        <pt x="393" y="665" on="1"/>
+        <pt x="397" y="665" on="1"/>
+        <pt x="397" y="661" on="1"/>
+        <pt x="592" y="464" on="1"/>
+        <pt x="456" y="316" on="1"/>
+        <pt x="397" y="380" on="1"/>
+        <pt x="397" y="189" on="1"/>
+        <pt x="456" y="253" on="1"/>
+        <pt x="592" y="105" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 4 values pushed */
+          10 0 1 50
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="asciicircum" xMin="-4" yMin="247" xMax="606" yMax="628">
+      <contour>
+        <pt x="-4" y="247" on="1"/>
+        <pt x="243" y="628" on="1"/>
+        <pt x="354" y="628" on="1"/>
+        <pt x="606" y="247" on="1"/>
+        <pt x="371" y="247" on="1"/>
+        <pt x="300" y="355" on="1"/>
+        <pt x="230" y="247" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 28 values pushed */
+          5 1 1 0 1 76 0 0 1 0 133 3 2 2 1 1 118 0 0 0 6 0 6 17 17
+          4 6 24
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="asterisk" xMin="12" yMin="238" xMax="481" yMax="671">
+      <contour>
+        <pt x="315" y="339" on="1"/>
+        <pt x="342" y="238" on="1"/>
+        <pt x="152" y="238" on="1"/>
+        <pt x="177" y="330" on="1"/>
+        <pt x="107" y="260" on="1"/>
+        <pt x="12" y="424" on="1"/>
+        <pt x="119" y="453" on="1"/>
+        <pt x="12" y="481" on="1"/>
+        <pt x="106" y="645" on="1"/>
+        <pt x="181" y="570" on="1"/>
+        <pt x="152" y="671" on="1"/>
+        <pt x="342" y="671" on="1"/>
+        <pt x="311" y="563" on="1"/>
+        <pt x="386" y="641" on="1"/>
+        <pt x="481" y="476" on="1"/>
+        <pt x="388" y="453" on="1"/>
+        <pt x="481" y="430" on="1"/>
+        <pt x="386" y="265" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 32 values pushed */
+          17 16 15 14 13 12 9 8 7 6 5 4 3 13 0 1 1 76 0 1 0 1 133 0 0
+          0 118 24 17 2 6 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="backslash" xMin="4" yMin="-185" xMax="477" yMax="730">
+      <contour>
+        <pt x="277" y="-185" on="1"/>
+        <pt x="4" y="730" on="1"/>
+        <pt x="204" y="730" on="1"/>
+        <pt x="477" y="-185" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 20 values pushed */
+          0 0 1 0 133 2 1 1 1 118 0 0 0 3 0 3 17 3 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="bar" xMin="36" yMin="-230" xMax="226" yMax="730">
+      <contour>
+        <pt x="226" y="-230" on="1"/>
+        <pt x="36" y="-230" on="1"/>
+        <pt x="36" y="730" on="1"/>
+        <pt x="226" y="730" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 14 values pushed */
+          0 1 0 1 133 0 0 0 118 17 16 2 6 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="braceleft" xMin="4" yMin="-245" xMax="373" yMax="745">
+      <contour>
+        <pt x="362" y="-245" on="1"/>
+        <pt x="99" y="-245" on="0"/>
+        <pt x="87" y="50" on="1"/>
+        <pt x="87" y="77" on="1"/>
+        <pt x="87" y="95" on="0"/>
+        <pt x="61" y="126" on="0"/>
+        <pt x="23" y="145" on="0"/>
+        <pt x="4" y="145" on="1"/>
+        <pt x="4" y="355" on="1"/>
+        <pt x="48" y="355" on="0"/>
+        <pt x="87" y="389" on="0"/>
+        <pt x="87" y="408" on="1"/>
+        <pt x="87" y="445" on="1"/>
+        <pt x="87" y="590" on="0"/>
+        <pt x="223" y="745" on="0"/>
+        <pt x="362" y="745" on="1"/>
+        <pt x="373" y="745" on="1"/>
+        <pt x="373" y="535" on="1"/>
+        <pt x="324" y="535" on="0"/>
+        <pt x="277" y="484" on="0"/>
+        <pt x="277" y="440" on="1"/>
+        <pt x="277" y="419" on="1"/>
+        <pt x="277" y="401" on="0"/>
+        <pt x="263" y="346" on="0"/>
+        <pt x="231" y="290" on="0"/>
+        <pt x="180" y="253" on="0"/>
+        <pt x="143" y="253" on="1"/>
+        <pt x="192" y="253" on="0"/>
+        <pt x="252" y="200" on="0"/>
+        <pt x="279" y="121" on="0"/>
+        <pt x="278" y="83" on="1"/>
+        <pt x="277" y="47" on="1"/>
+        <pt x="276" y="4" on="0"/>
+        <pt x="324" y="-35" on="0"/>
+        <pt x="373" y="-35" on="1"/>
+        <pt x="373" y="-245" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 62 values pushed */
+          0 5 2 1 2 5 1 128 0 3 0 4 2 3 4 105 0 2 0 1 6 2 1 105 0
+          6 0 0 6 89 0 6 6 0 97 7 1 0 6 0 81 1 0 34 33 27 26 18 17 16
+          14 9 8 7 6 0 35 1 35 8 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="braceright" xMin="8" yMin="-245" xMax="377" yMax="745">
+      <contour>
+        <pt x="8" y="-245" on="1"/>
+        <pt x="8" y="-35" on="1"/>
+        <pt x="58" y="-35" on="0"/>
+        <pt x="106" y="4" on="0"/>
+        <pt x="104" y="47" on="1"/>
+        <pt x="103" y="83" on="1"/>
+        <pt x="102" y="121" on="0"/>
+        <pt x="129" y="200" on="0"/>
+        <pt x="189" y="253" on="0"/>
+        <pt x="238" y="253" on="1"/>
+        <pt x="201" y="253" on="0"/>
+        <pt x="150" y="290" on="0"/>
+        <pt x="118" y="346" on="0"/>
+        <pt x="104" y="401" on="0"/>
+        <pt x="104" y="419" on="1"/>
+        <pt x="104" y="440" on="1"/>
+        <pt x="104" y="484" on="0"/>
+        <pt x="57" y="535" on="0"/>
+        <pt x="8" y="535" on="1"/>
+        <pt x="8" y="745" on="1"/>
+        <pt x="19" y="745" on="1"/>
+        <pt x="158" y="745" on="0"/>
+        <pt x="294" y="590" on="0"/>
+        <pt x="294" y="445" on="1"/>
+        <pt x="294" y="408" on="1"/>
+        <pt x="294" y="389" on="0"/>
+        <pt x="334" y="355" on="0"/>
+        <pt x="377" y="355" on="1"/>
+        <pt x="377" y="145" on="1"/>
+        <pt x="359" y="145" on="0"/>
+        <pt x="320" y="126" on="0"/>
+        <pt x="294" y="95" on="0"/>
+        <pt x="294" y="77" on="1"/>
+        <pt x="294" y="50" on="1"/>
+        <pt x="282" y="-245" on="0"/>
+        <pt x="19" y="-245" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 56 values pushed */
+          0 1 4 5 4 1 5 128 0 3 0 2 4 3 2 105 0 4 0 5 0 4 5 105 0
+          0 6 6 0 89 0 0 0 6 97 7 1 6 0 6 81 0 0 0 35 0 34 17 21 33
+          23 38 17 8 6 28
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="bracketleft" xMin="8" yMin="-245" xMax="266" yMax="745">
+      <contour>
+        <pt x="8" y="-245" on="1"/>
+        <pt x="8" y="745" on="1"/>
+        <pt x="266" y="745" on="1"/>
+        <pt x="266" y="535" on="1"/>
+        <pt x="198" y="535" on="1"/>
+        <pt x="198" y="-35" on="1"/>
+        <pt x="266" y="-35" on="1"/>
+        <pt x="266" y="-245" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 37 values pushed */
+          0 0 0 1 2 0 1 103 0 2 3 3 2 87 0 2 2 3 95 4 1 3 2 3 79
+          0 0 0 7 0 7 17 17 17 5 6 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="bracketright" xMin="8" yMin="-245" xMax="266" yMax="745">
+      <contour>
+        <pt x="8" y="-245" on="1"/>
+        <pt x="8" y="-35" on="1"/>
+        <pt x="76" y="-35" on="1"/>
+        <pt x="76" y="535" on="1"/>
+        <pt x="8" y="535" on="1"/>
+        <pt x="8" y="745" on="1"/>
+        <pt x="266" y="745" on="1"/>
+        <pt x="266" y="-245" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 37 values pushed */
+          0 2 0 1 0 2 1 103 0 0 3 3 0 87 0 0 0 3 95 4 1 3 0 3 79
+          0 0 0 7 0 7 17 17 17 5 6 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="bullet" xMin="8" yMin="109" xMax="350" yMax="451">
+      <contour>
+        <pt x="179" y="109" on="1"/>
+        <pt x="103" y="109" on="0"/>
+        <pt x="8" y="203" on="0"/>
+        <pt x="8" y="279" on="1"/>
+        <pt x="8" y="330" on="0"/>
+        <pt x="52" y="408" on="0"/>
+        <pt x="129" y="451" on="0"/>
+        <pt x="179" y="451" on="1"/>
+        <pt x="256" y="451" on="0"/>
+        <pt x="350" y="356" on="0"/>
+        <pt x="350" y="279" on="1"/>
+        <pt x="350" y="203" on="0"/>
+        <pt x="256" y="109" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 21 values pushed */
+          0 1 0 1 133 2 1 0 0 118 1 0 8 6 0 12 1 12 3 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="colon" xMin="8" yMin="-8" xMax="236" yMax="500">
+      <contour>
+        <pt x="122" y="272" on="1"/>
+        <pt x="71" y="272" on="0"/>
+        <pt x="8" y="335" on="0"/>
+        <pt x="8" y="385" on="1"/>
+        <pt x="8" y="436" on="0"/>
+        <pt x="72" y="500" on="0"/>
+        <pt x="122" y="500" on="1"/>
+        <pt x="173" y="500" on="0"/>
+        <pt x="236" y="436" on="0"/>
+        <pt x="236" y="385" on="1"/>
+        <pt x="236" y="335" on="0"/>
+        <pt x="173" y="272" on="0"/>
+      </contour>
+      <contour>
+        <pt x="122" y="-8" on="1"/>
+        <pt x="71" y="-8" on="0"/>
+        <pt x="8" y="55" on="0"/>
+        <pt x="8" y="105" on="1"/>
+        <pt x="8" y="156" on="0"/>
+        <pt x="72" y="220" on="0"/>
+        <pt x="122" y="220" on="1"/>
+        <pt x="173" y="220" on="0"/>
+        <pt x="236" y="156" on="0"/>
+        <pt x="236" y="105" on="1"/>
+        <pt x="236" y="55" on="0"/>
+        <pt x="173" y="-8" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 45 values pushed */
+          0 1 4 1 0 3 1 0 105 0 3 2 2 3 89 0 3 3 2 97 5 1 2 3 2
+          81 13 12 1 0 19 17 12 23 13 23 7 5 0 11 1 11 6 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="comma" xMin="-4" yMin="-114" xMax="251" yMax="212">
+      <contour>
+        <pt x="-4" y="-114" on="1"/>
+        <pt x="43" y="212" on="1"/>
+        <pt x="251" y="212" on="1"/>
+        <pt x="168" y="-114" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 20 values pushed */
+          0 0 1 0 133 2 1 1 1 118 0 0 0 3 0 3 17 3 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="copyright" xMin="15" yMin="-132" xMax="833" yMax="702">
+      <contour>
+        <pt x="424" y="-132" on="1"/>
+        <pt x="339" y="-132" on="0"/>
+        <pt x="191" y="-67" on="0"/>
+        <pt x="79" y="48" on="0"/>
+        <pt x="15" y="199" on="0"/>
+        <pt x="15" y="285" on="1"/>
+        <pt x="15" y="371" on="0"/>
+        <pt x="79" y="522" on="0"/>
+        <pt x="191" y="637" on="0"/>
+        <pt x="339" y="702" on="0"/>
+        <pt x="424" y="702" on="1"/>
+        <pt x="509" y="702" on="0"/>
+        <pt x="657" y="637" on="0"/>
+        <pt x="769" y="522" on="0"/>
+        <pt x="833" y="371" on="0"/>
+        <pt x="833" y="285" on="1"/>
+        <pt x="833" y="199" on="0"/>
+        <pt x="769" y="48" on="0"/>
+        <pt x="657" y="-67" on="0"/>
+        <pt x="509" y="-132" on="0"/>
+      </contour>
+      <contour>
+        <pt x="424" y="15" on="1"/>
+        <pt x="482" y="15" on="0"/>
+        <pt x="584" y="57" on="0"/>
+        <pt x="661" y="131" on="0"/>
+        <pt x="704" y="229" on="0"/>
+        <pt x="704" y="285" on="1"/>
+        <pt x="704" y="341" on="0"/>
+        <pt x="661" y="439" on="0"/>
+        <pt x="584" y="513" on="0"/>
+        <pt x="482" y="555" on="0"/>
+        <pt x="424" y="555" on="1"/>
+        <pt x="366" y="555" on="0"/>
+        <pt x="264" y="513" on="0"/>
+        <pt x="187" y="439" on="0"/>
+        <pt x="144" y="341" on="0"/>
+        <pt x="144" y="285" on="1"/>
+        <pt x="144" y="229" on="0"/>
+        <pt x="187" y="131" on="0"/>
+        <pt x="264" y="57" on="0"/>
+        <pt x="366" y="15" on="0"/>
+      </contour>
+      <contour>
+        <pt x="426" y="60" on="1"/>
+        <pt x="365" y="60" on="0"/>
+        <pt x="265" y="120" on="0"/>
+        <pt x="207" y="222" on="0"/>
+        <pt x="207" y="285" on="1"/>
+        <pt x="207" y="348" on="0"/>
+        <pt x="265" y="450" on="0"/>
+        <pt x="365" y="510" on="0"/>
+        <pt x="426" y="510" on="1"/>
+        <pt x="486" y="510" on="0"/>
+        <pt x="587" y="449" on="0"/>
+        <pt x="616" y="396" on="1"/>
+        <pt x="493" y="321" on="1"/>
+        <pt x="486" y="335" on="0"/>
+        <pt x="447" y="355" on="0"/>
+        <pt x="426" y="355" on="1"/>
+        <pt x="392" y="355" on="0"/>
+        <pt x="348" y="314" on="0"/>
+        <pt x="348" y="285" on="1"/>
+        <pt x="348" y="256" on="0"/>
+        <pt x="392" y="215" on="0"/>
+        <pt x="426" y="215" on="1"/>
+        <pt x="448" y="215" on="0"/>
+        <pt x="486" y="237" on="0"/>
+        <pt x="494" y="253" on="1"/>
+        <pt x="619" y="181" on="1"/>
+        <pt x="590" y="125" on="0"/>
+        <pt x="487" y="60" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 90 values pushed */
+          51 1 6 5 64 52 2 7 6 65 1 4 7 3 76 0 1 0 3 5 1 3 105 0 5
+          0 6 7 5 6 105 0 7 10 1 4 2 7 4 105 9 1 2 0 0 2 89 9 1 2
+          2 0 97 8 1 0 2 0 81 41 40 21 20 1 0 62 60 56 54 49 47 40 67 41 67
+          31 29 20 39 21 39 11 9 0 19 1 19 11 6 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="degree" xMin="18" yMin="304" xMax="433" yMax="704">
+      <contour>
+        <pt x="225" y="304" on="1"/>
+        <pt x="169" y="304" on="0"/>
+        <pt x="74" y="358" on="0"/>
+        <pt x="18" y="450" on="0"/>
+        <pt x="18" y="505" on="1"/>
+        <pt x="18" y="561" on="0"/>
+        <pt x="74" y="651" on="0"/>
+        <pt x="169" y="704" on="0"/>
+        <pt x="225" y="704" on="1"/>
+        <pt x="283" y="704" on="0"/>
+        <pt x="377" y="651" on="0"/>
+        <pt x="433" y="561" on="0"/>
+        <pt x="433" y="505" on="1"/>
+        <pt x="433" y="450" on="0"/>
+        <pt x="377" y="358" on="0"/>
+        <pt x="283" y="304" on="0"/>
+      </contour>
+      <contour>
+        <pt x="226" y="449" on="1"/>
+        <pt x="246" y="449" on="0"/>
+        <pt x="273" y="481" on="0"/>
+        <pt x="273" y="505" on="1"/>
+        <pt x="273" y="528" on="0"/>
+        <pt x="246" y="560" on="0"/>
+        <pt x="226" y="560" on="1"/>
+        <pt x="206" y="560" on="0"/>
+        <pt x="176" y="528" on="0"/>
+        <pt x="177" y="505" on="1"/>
+        <pt x="178" y="482" on="0"/>
+        <pt x="207" y="449" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 46 values pushed */
+          0 1 0 3 2 1 3 105 5 1 2 0 0 2 89 5 1 2 2 0 97 4 1 0 2
+          0 81 17 16 1 0 23 21 16 27 17 27 9 7 0 15 1 15 6 6 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="divide" xMin="12" yMin="2" xMax="452" yMax="507">
+      <contour>
+        <pt x="232" y="309" on="1"/>
+        <pt x="188" y="309" on="0"/>
+        <pt x="133" y="364" on="0"/>
+        <pt x="133" y="407" on="1"/>
+        <pt x="133" y="451" on="0"/>
+        <pt x="189" y="507" on="0"/>
+        <pt x="232" y="507" on="1"/>
+        <pt x="276" y="507" on="0"/>
+        <pt x="331" y="451" on="0"/>
+        <pt x="331" y="407" on="1"/>
+        <pt x="331" y="364" on="0"/>
+        <pt x="276" y="309" on="0"/>
+      </contour>
+      <contour>
+        <pt x="12" y="208" on="1"/>
+        <pt x="12" y="300" on="1"/>
+        <pt x="452" y="300" on="1"/>
+        <pt x="452" y="208" on="1"/>
+      </contour>
+      <contour>
+        <pt x="232" y="2" on="1"/>
+        <pt x="188" y="2" on="0"/>
+        <pt x="133" y="57" on="0"/>
+        <pt x="133" y="100" on="1"/>
+        <pt x="133" y="144" on="0"/>
+        <pt x="189" y="200" on="0"/>
+        <pt x="232" y="200" on="1"/>
+        <pt x="276" y="200" on="0"/>
+        <pt x="331" y="144" on="0"/>
+        <pt x="331" y="100" on="1"/>
+        <pt x="331" y="57" on="0"/>
+        <pt x="276" y="2" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 62 values pushed */
+          0 1 6 1 0 2 1 0 105 0 2 7 1 3 5 2 3 103 0 5 4 4 5 89 0
+          5 5 4 97 8 1 4 5 4 81 17 16 12 12 1 0 23 21 16 27 17 27 12 15 12
+          15 14 13 7 5 0 11 1 11 9 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="dollar" xMin="14" yMin="-99" xMax="674" yMax="730">
+      <contour>
+        <pt x="253" y="-99" on="1"/>
+        <pt x="253" y="-32" on="1"/>
+        <pt x="202" y="-30" on="0"/>
+        <pt x="106" y="-18" on="0"/>
+        <pt x="60" y="-3" on="1"/>
+        <pt x="60" y="207" on="1"/>
+        <pt x="100" y="192" on="0"/>
+        <pt x="202" y="180" on="0"/>
+        <pt x="253" y="178" on="1"/>
+        <pt x="253" y="218" on="1"/>
+        <pt x="144" y="234" on="0"/>
+        <pt x="14" y="346" on="0"/>
+        <pt x="14" y="432" on="1"/>
+        <pt x="14" y="486" on="0"/>
+        <pt x="76" y="565" on="0"/>
+        <pt x="185" y="615" on="0"/>
+        <pt x="253" y="624" on="1"/>
+        <pt x="253" y="730" on="1"/>
+        <pt x="443" y="730" on="1"/>
+        <pt x="443" y="620" on="1"/>
+        <pt x="482" y="614" on="0"/>
+        <pt x="568" y="596" on="0"/>
+        <pt x="616" y="586" on="1"/>
+        <pt x="616" y="376" on="1"/>
+        <pt x="560" y="387" on="0"/>
+        <pt x="476" y="403" on="0"/>
+        <pt x="443" y="409" on="1"/>
+        <pt x="443" y="374" on="1"/>
+        <pt x="546" y="352" on="0"/>
+        <pt x="674" y="254" on="0"/>
+        <pt x="674" y="173" on="1"/>
+        <pt x="674" y="127" on="0"/>
+        <pt x="615" y="46" on="0"/>
+        <pt x="511" y="-13" on="0"/>
+        <pt x="443" y="-26" on="1"/>
+        <pt x="443" y="-99" on="1"/>
+      </contour>
+      <contour>
+        <pt x="194" y="409" on="1"/>
+        <pt x="194" y="405" on="0"/>
+        <pt x="228" y="398" on="0"/>
+        <pt x="253" y="395" on="1"/>
+        <pt x="253" y="418" on="1"/>
+        <pt x="227" y="416" on="0"/>
+        <pt x="194" y="412" on="0"/>
+      </contour>
+      <contour>
+        <pt x="494" y="189" on="1"/>
+        <pt x="494" y="191" on="0"/>
+        <pt x="474" y="198" on="0"/>
+        <pt x="443" y="202" on="1"/>
+        <pt x="443" y="179" on="1"/>
+        <pt x="467" y="181" on="0"/>
+        <pt x="494" y="185" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 65 values pushed */
+          46 40 39 27 26 23 22 19 16 9 5 11 1 2 34 4 2 0 1 2 76 47 1 1 1
+          75 0 2 1 2 133 4 1 3 0 3 134 0 1 0 0 1 89 0 1 1 0 97 0 0
+          1 0 81 0 0 0 35 0 35 25 21 17 5 6 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="eight" xMin="2" yMin="-28" xMax="592" yMax="630">
+      <contour>
+        <pt x="297" y="-28" on="1"/>
+        <pt x="209" y="-28" on="0"/>
+        <pt x="76" y="27" on="0"/>
+        <pt x="2" y="123" on="0"/>
+        <pt x="2" y="184" on="1"/>
+        <pt x="2" y="231" on="0"/>
+        <pt x="45" y="305" on="0"/>
+        <pt x="93" y="333" on="1"/>
+        <pt x="60" y="353" on="0"/>
+        <pt x="36" y="403" on="0"/>
+        <pt x="36" y="433" on="1"/>
+        <pt x="36" y="468" on="0"/>
+        <pt x="74" y="538" on="0"/>
+        <pt x="143" y="595" on="0"/>
+        <pt x="239" y="630" on="0"/>
+        <pt x="297" y="630" on="1"/>
+        <pt x="355" y="630" on="0"/>
+        <pt x="451" y="595" on="0"/>
+        <pt x="520" y="538" on="0"/>
+        <pt x="558" y="468" on="0"/>
+        <pt x="558" y="433" on="1"/>
+        <pt x="558" y="403" on="0"/>
+        <pt x="534" y="353" on="0"/>
+        <pt x="501" y="333" on="1"/>
+        <pt x="549" y="305" on="0"/>
+        <pt x="592" y="231" on="0"/>
+        <pt x="592" y="184" on="1"/>
+        <pt x="592" y="123" on="0"/>
+        <pt x="518" y="27" on="0"/>
+        <pt x="386" y="-28" on="0"/>
+      </contour>
+      <contour>
+        <pt x="297" y="380" on="1"/>
+        <pt x="321" y="380" on="0"/>
+        <pt x="348" y="398" on="0"/>
+        <pt x="348" y="410" on="1"/>
+        <pt x="348" y="421" on="0"/>
+        <pt x="321" y="440" on="0"/>
+        <pt x="297" y="440" on="1"/>
+        <pt x="273" y="440" on="0"/>
+        <pt x="246" y="421" on="0"/>
+        <pt x="246" y="410" on="1"/>
+        <pt x="246" y="398" on="0"/>
+        <pt x="273" y="380" on="0"/>
+      </contour>
+      <contour>
+        <pt x="297" y="162" on="1"/>
+        <pt x="336" y="162" on="0"/>
+        <pt x="382" y="197" on="0"/>
+        <pt x="382" y="214" on="1"/>
+        <pt x="382" y="234" on="0"/>
+        <pt x="333" y="268" on="0"/>
+        <pt x="297" y="268" on="1"/>
+        <pt x="261" y="268" on="0"/>
+        <pt x="212" y="234" on="0"/>
+        <pt x="212" y="214" on="1"/>
+        <pt x="212" y="197" on="0"/>
+        <pt x="258" y="162" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 70 values pushed */
+          23 7 2 5 2 1 76 0 1 0 3 2 1 3 105 7 1 2 0 5 4 2 5 105 8
+          1 4 0 0 4 89 8 1 4 4 0 97 6 1 0 4 0 81 43 42 31 30 1 0 49
+          47 42 53 43 53 37 35 30 41 31 41 16 14 0 29 1 29 9 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="emdash" xMin="21" yMin="167" xMax="699" yMax="339">
+      <contour>
+        <pt x="21" y="167" on="1"/>
+        <pt x="21" y="339" on="1"/>
+        <pt x="699" y="339" on="1"/>
+        <pt x="699" y="167" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 27 values pushed */
+          0 0 1 1 0 87 0 0 0 1 95 2 1 1 0 1 79 0 0 0 3 0 3 17 3
+          6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="endash" xMin="21" yMin="167" xMax="501" yMax="339">
+      <contour>
+        <pt x="21" y="167" on="1"/>
+        <pt x="21" y="339" on="1"/>
+        <pt x="501" y="339" on="1"/>
+        <pt x="501" y="167" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 27 values pushed */
+          0 0 1 1 0 87 0 0 0 1 95 2 1 1 0 1 79 0 0 0 3 0 3 17 3
+          6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="equal" xMin="12" yMin="73" xMax="452" yMax="448">
+      <contour>
+        <pt x="12" y="276" on="1"/>
+        <pt x="12" y="448" on="1"/>
+        <pt x="452" y="448" on="1"/>
+        <pt x="452" y="276" on="1"/>
+      </contour>
+      <contour>
+        <pt x="12" y="73" on="1"/>
+        <pt x="12" y="245" on="1"/>
+        <pt x="452" y="245" on="1"/>
+        <pt x="452" y="73" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 44 values pushed */
+          0 0 4 1 1 2 0 1 103 0 2 3 3 2 87 0 2 2 3 95 5 1 3 2 3
+          79 4 4 0 0 4 7 4 7 6 5 0 3 0 3 17 6 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="exclam" xMin="8" yMin="-8" xMax="236" yMax="599">
+      <contour>
+        <pt x="44" y="238" on="1"/>
+        <pt x="40" y="296" on="0"/>
+        <pt x="32" y="375" on="0"/>
+        <pt x="27" y="443" on="0"/>
+        <pt x="27" y="482" on="1"/>
+        <pt x="27" y="599" on="1"/>
+        <pt x="217" y="599" on="1"/>
+        <pt x="217" y="482" on="1"/>
+        <pt x="217" y="443" on="0"/>
+        <pt x="212" y="375" on="0"/>
+        <pt x="205" y="296" on="0"/>
+        <pt x="200" y="238" on="1"/>
+      </contour>
+      <contour>
+        <pt x="122" y="-8" on="1"/>
+        <pt x="71" y="-8" on="0"/>
+        <pt x="8" y="55" on="0"/>
+        <pt x="8" y="105" on="1"/>
+        <pt x="8" y="156" on="0"/>
+        <pt x="72" y="220" on="0"/>
+        <pt x="122" y="220" on="1"/>
+        <pt x="173" y="220" on="0"/>
+        <pt x="236" y="156" on="0"/>
+        <pt x="236" y="105" on="1"/>
+        <pt x="236" y="55" on="0"/>
+        <pt x="173" y="-8" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 46 values pushed */
+          0 0 1 0 133 4 1 1 3 1 133 0 3 2 2 3 89 0 3 3 2 97 5 1 2
+          3 2 81 13 12 0 0 19 17 12 23 13 23 0 11 0 11 21 6 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="five" xMin="17" yMin="-25" xMax="547" yMax="600">
+      <contour>
+        <pt x="266" y="-25" on="1"/>
+        <pt x="198" y="-25" on="0"/>
+        <pt x="81" y="5" on="0"/>
+        <pt x="17" y="30" on="1"/>
+        <pt x="17" y="217" on="1"/>
+        <pt x="123" y="204" on="0"/>
+        <pt x="242" y="185" on="0"/>
+        <pt x="266" y="185" on="1"/>
+        <pt x="307" y="185" on="0"/>
+        <pt x="357" y="197" on="0"/>
+        <pt x="357" y="212" on="1"/>
+        <pt x="357" y="225" on="0"/>
+        <pt x="308" y="239" on="0"/>
+        <pt x="270" y="239" on="1"/>
+        <pt x="240" y="239" on="0"/>
+        <pt x="192" y="239" on="0"/>
+        <pt x="139" y="237" on="0"/>
+        <pt x="69" y="233" on="0"/>
+        <pt x="17" y="229" on="1"/>
+        <pt x="28" y="600" on="1"/>
+        <pt x="489" y="600" on="1"/>
+        <pt x="489" y="390" on="1"/>
+        <pt x="199" y="390" on="1"/>
+        <pt x="198" y="372" on="1"/>
+        <pt x="229" y="374" on="0"/>
+        <pt x="262" y="375" on="0"/>
+        <pt x="270" y="375" on="1"/>
+        <pt x="376" y="375" on="0"/>
+        <pt x="496" y="332" on="0"/>
+        <pt x="547" y="254" on="0"/>
+        <pt x="547" y="199" on="1"/>
+        <pt x="547" y="123" on="0"/>
+        <pt x="473" y="24" on="0"/>
+        <pt x="346" y="-25" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 63 values pushed */
+          18 4 2 1 2 3 1 0 1 2 76 0 3 0 4 5 3 4 103 0 5 0 2 1 5
+          2 105 0 1 0 0 1 89 0 1 1 0 97 6 1 0 1 0 81 1 0 27 23 22 21
+          20 19 17 12 8 6 0 33 1 33 7 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="four" xMin="17" yMin="0" xMax="546" yMax="600">
+      <contour>
+        <pt x="325" y="0" on="1"/>
+        <pt x="325" y="73" on="1"/>
+        <pt x="18" y="72" on="1"/>
+        <pt x="17" y="295" on="1"/>
+        <pt x="255" y="600" on="1"/>
+        <pt x="515" y="600" on="1"/>
+        <pt x="515" y="283" on="1"/>
+        <pt x="546" y="283" on="1"/>
+        <pt x="546" y="73" on="1"/>
+        <pt x="515" y="73" on="1"/>
+        <pt x="515" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="325" y="399" on="1"/>
+        <pt x="230" y="282" on="1"/>
+        <pt x="325" y="282" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 52 values pushed */
+          11 3 2 2 1 1 76 0 1 2 1 133 6 1 4 0 4 134 5 1 2 0 0 2 87
+          5 1 2 2 0 95 3 1 0 2 0 79 0 0 13 12 0 10 0 10 17 17 18 17 7
+          6 26
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="greater" xMin="14" yMin="-15" xMax="492" yMax="585">
+      <contour>
+        <pt x="98" y="-15" on="1"/>
+        <pt x="14" y="173" on="1"/>
+        <pt x="241" y="286" on="1"/>
+        <pt x="15" y="395" on="1"/>
+        <pt x="97" y="585" on="1"/>
+        <pt x="492" y="359" on="1"/>
+        <pt x="492" y="216" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 4 values pushed */
+          4 0 1 50
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="hyphen" xMin="21" yMin="167" xMax="391" yMax="339">
+      <contour>
+        <pt x="21" y="339" on="1"/>
+        <pt x="391" y="339" on="1"/>
+        <pt x="391" y="167" on="1"/>
+        <pt x="21" y="167" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 21 values pushed */
+          0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 17 16 2 6 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="less" xMin="14" yMin="-15" xMax="492" yMax="585">
+      <contour>
+        <pt x="408" y="-15" on="1"/>
+        <pt x="14" y="216" on="1"/>
+        <pt x="14" y="359" on="1"/>
+        <pt x="409" y="585" on="1"/>
+        <pt x="491" y="395" on="1"/>
+        <pt x="265" y="286" on="1"/>
+        <pt x="492" y="173" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 4 values pushed */
+          3 0 1 50
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="minus" xMin="12" yMin="168" xMax="452" yMax="340">
+      <contour>
+        <pt x="12" y="168" on="1"/>
+        <pt x="12" y="340" on="1"/>
+        <pt x="452" y="340" on="1"/>
+        <pt x="452" y="168" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 27 values pushed */
+          0 0 1 1 0 87 0 0 0 1 95 2 1 1 0 1 79 0 0 0 3 0 3 17 3
+          6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="multiply" xMin="12" yMin="5" xMax="498" yMax="505">
+      <contour>
+        <pt x="146" y="5" on="1"/>
+        <pt x="12" y="155" on="1"/>
+        <pt x="113" y="255" on="1"/>
+        <pt x="12" y="355" on="1"/>
+        <pt x="146" y="505" on="1"/>
+        <pt x="255" y="397" on="1"/>
+        <pt x="364" y="505" on="1"/>
+        <pt x="498" y="355" on="1"/>
+        <pt x="397" y="255" on="1"/>
+        <pt x="498" y="155" on="1"/>
+        <pt x="364" y="5" on="1"/>
+        <pt x="255" y="113" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 4 values pushed */
+          4 0 1 50
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="nine" xMin="5" yMin="0" xMax="552" yMax="630">
+      <contour>
+        <pt x="279" y="152" on="1"/>
+        <pt x="202" y="152" on="0"/>
+        <pt x="78" y="208" on="0"/>
+        <pt x="5" y="315" on="0"/>
+        <pt x="5" y="389" on="1"/>
+        <pt x="5" y="434" on="0"/>
+        <pt x="46" y="520" on="0"/>
+        <pt x="120" y="589" on="0"/>
+        <pt x="220" y="630" on="0"/>
+        <pt x="279" y="630" on="1"/>
+        <pt x="355" y="630" on="0"/>
+        <pt x="478" y="564" on="0"/>
+        <pt x="552" y="442" on="0"/>
+        <pt x="552" y="357" on="1"/>
+        <pt x="552" y="307" on="0"/>
+        <pt x="516" y="209" on="0"/>
+        <pt x="457" y="118" on="0"/>
+        <pt x="388" y="35" on="0"/>
+        <pt x="354" y="0" on="1"/>
+        <pt x="164" y="0" on="1"/>
+        <pt x="173" y="10" on="0"/>
+        <pt x="214" y="55" on="0"/>
+        <pt x="267" y="116" on="0"/>
+        <pt x="293" y="152" on="1"/>
+        <pt x="286" y="152" on="0"/>
+      </contour>
+      <contour>
+        <pt x="279" y="362" on="1"/>
+        <pt x="323" y="362" on="0"/>
+        <pt x="362" y="379" on="0"/>
+        <pt x="362" y="389" on="1"/>
+        <pt x="362" y="400" on="0"/>
+        <pt x="323" y="420" on="0"/>
+        <pt x="279" y="420" on="1"/>
+        <pt x="239" y="420" on="0"/>
+        <pt x="195" y="400" on="0"/>
+        <pt x="195" y="389" on="1"/>
+        <pt x="195" y="379" on="0"/>
+        <pt x="239" y="362" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 53 values pushed */
+          0 2 0 2 134 0 1 0 4 3 1 4 105 6 1 3 0 0 3 89 6 1 3 3 0
+          97 5 1 0 3 0 81 26 25 1 0 32 30 25 36 26 36 19 18 10 8 0 24 1 23
+          7 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="notequal" xMin="12" yMin="23" xMax="452" yMax="510">
+      <contour>
+        <pt x="44" y="23" on="1"/>
+        <pt x="64" y="73" on="1"/>
+        <pt x="12" y="73" on="1"/>
+        <pt x="12" y="245" on="1"/>
+        <pt x="134" y="245" on="1"/>
+        <pt x="147" y="276" on="1"/>
+        <pt x="12" y="276" on="1"/>
+        <pt x="12" y="448" on="1"/>
+        <pt x="217" y="448" on="1"/>
+        <pt x="242" y="510" on="1"/>
+        <pt x="433" y="510" on="1"/>
+        <pt x="408" y="448" on="1"/>
+        <pt x="452" y="448" on="1"/>
+        <pt x="452" y="276" on="1"/>
+        <pt x="338" y="276" on="1"/>
+        <pt x="325" y="245" on="1"/>
+        <pt x="452" y="245" on="1"/>
+        <pt x="452" y="73" on="1"/>
+        <pt x="255" y="73" on="1"/>
+        <pt x="235" y="23" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          20
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 42 values pushed */
+            0 4 3 3 4 112 10 1 9 0 0 9 113 5 1 3 6 1 2 1 3 2 104 7 1
+            1 0 0 1 87 7 1 1 1 0 95 8 1 0 1 0 79
+          ELSE[ ]	/* Else */
+            MPPEM[ ]	/* MeasurePixelPerEm */
+            PUSHB[ ]	/* 1 value pushed */
+            25
+            LT[ ]	/* LessThan */
+            IF[ ]	/* If */
+              NPUSHB[ ]	/* 41 values pushed */
+              0 4 3 4 133 10 1 9 0 0 9 113 5 1 3 6 1 2 1 3 2 104 7 1 1
+              0 0 1 87 7 1 1 1 0 95 8 1 0 1 0 79
+            ELSE[ ]	/* Else */
+              NPUSHB[ ]	/* 40 values pushed */
+              0 4 3 4 133 10 1 9 0 9 134 5 1 3 6 1 2 1 3 2 104 7 1 1 0
+              0 1 87 7 1 1 1 0 95 8 1 0 1 0 79
+            EIF[ ]	/* EndIf */
+          EIF[ ]	/* EndIf */
+          NPUSHB[ ]	/* 18 values pushed */
+          0 0 0 19 0 19 17 17 17 17 17 17 17 17 17 11 6 31
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="numbersign" xMin="13" yMin="-46" xMax="628" yMax="629">
+      <contour>
+        <pt x="13" y="62" on="1"/>
+        <pt x="13" y="272" on="1"/>
+        <pt x="93" y="272" on="1"/>
+        <pt x="98" y="307" on="1"/>
+        <pt x="13" y="307" on="1"/>
+        <pt x="13" y="517" on="1"/>
+        <pt x="128" y="517" on="1"/>
+        <pt x="144" y="629" on="1"/>
+        <pt x="336" y="629" on="1"/>
+        <pt x="320" y="517" on="1"/>
+        <pt x="373" y="517" on="1"/>
+        <pt x="389" y="629" on="1"/>
+        <pt x="581" y="629" on="1"/>
+        <pt x="565" y="517" on="1"/>
+        <pt x="628" y="517" on="1"/>
+        <pt x="628" y="307" on="1"/>
+        <pt x="535" y="307" on="1"/>
+        <pt x="530" y="272" on="1"/>
+        <pt x="628" y="272" on="1"/>
+        <pt x="628" y="62" on="1"/>
+        <pt x="500" y="62" on="1"/>
+        <pt x="484" y="-46" on="1"/>
+        <pt x="292" y="-46" on="1"/>
+        <pt x="308" y="62" on="1"/>
+        <pt x="255" y="62" on="1"/>
+        <pt x="239" y="-46" on="1"/>
+        <pt x="47" y="-46" on="1"/>
+        <pt x="63" y="62" on="1"/>
+      </contour>
+      <contour>
+        <pt x="285" y="272" on="1"/>
+        <pt x="338" y="272" on="1"/>
+        <pt x="343" y="307" on="1"/>
+        <pt x="290" y="307" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 77 values pushed */
+          5 1 3 2 3 133 12 1 10 9 10 134 6 4 2 2 15 7 2 1 0 2 1 103 14
+          8 2 0 9 9 0 87 14 8 2 0 0 9 95 16 13 11 3 9 0 9 79 0 0 31
+          30 29 28 0 27 0 27 26 25 24 23 22 21 20 19 17 17 17 17 17 17 17 17 17 17
+          6 31
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="one" xMin="14" yMin="0" xMax="341" yMax="624">
+      <contour>
+        <pt x="151" y="0" on="1"/>
+        <pt x="151" y="348" on="1"/>
+        <pt x="14" y="311" on="1"/>
+        <pt x="14" y="546" on="1"/>
+        <pt x="341" y="624" on="1"/>
+        <pt x="341" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 21 values pushed */
+          4 3 2 1 4 0 74 1 1 0 0 118 0 0 0 5 0 5 2 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="parenleft" xMin="4" yMin="-250" xMax="350" yMax="741">
+      <contour>
+        <pt x="169" y="-250" on="1"/>
+        <pt x="126" y="-193" on="0"/>
+        <pt x="50" y="-44" on="0"/>
+        <pt x="4" y="141" on="0"/>
+        <pt x="4" y="249" on="1"/>
+        <pt x="4" y="356" on="0"/>
+        <pt x="48" y="534" on="0"/>
+        <pt x="122" y="681" on="0"/>
+        <pt x="168" y="741" on="1"/>
+        <pt x="350" y="666" on="1"/>
+        <pt x="308" y="609" on="0"/>
+        <pt x="237" y="486" on="0"/>
+        <pt x="194" y="340" on="0"/>
+        <pt x="194" y="249" on="1"/>
+        <pt x="194" y="158" on="0"/>
+        <pt x="237" y="6" on="0"/>
+        <pt x="302" y="-109" on="0"/>
+        <pt x="334" y="-148" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 4 values pushed */
+          8 0 1 50
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="parenright" xMin="4" yMin="-250" xMax="350" yMax="741">
+      <contour>
+        <pt x="185" y="-250" on="1"/>
+        <pt x="20" y="-148" on="1"/>
+        <pt x="53" y="-109" on="0"/>
+        <pt x="117" y="6" on="0"/>
+        <pt x="160" y="158" on="0"/>
+        <pt x="160" y="249" on="1"/>
+        <pt x="160" y="340" on="0"/>
+        <pt x="117" y="486" on="0"/>
+        <pt x="46" y="609" on="0"/>
+        <pt x="4" y="666" on="1"/>
+        <pt x="186" y="741" on="1"/>
+        <pt x="232" y="681" on="0"/>
+        <pt x="306" y="534" on="0"/>
+        <pt x="350" y="356" on="0"/>
+        <pt x="350" y="249" on="1"/>
+        <pt x="350" y="141" on="0"/>
+        <pt x="304" y="-44" on="0"/>
+        <pt x="229" y="-193" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 4 values pushed */
+          10 0 1 50
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="percent" xMin="12" yMin="-134" xMax="1050" yMax="708">
+      <contour>
+        <pt x="407" y="-134" on="1"/>
+        <pt x="241" y="-32" on="1"/>
+        <pt x="647" y="708" on="1"/>
+        <pt x="813" y="606" on="1"/>
+      </contour>
+      <contour>
+        <pt x="233" y="216" on="1"/>
+        <pt x="171" y="216" on="0"/>
+        <pt x="71" y="279" on="0"/>
+        <pt x="12" y="384" on="0"/>
+        <pt x="12" y="447" on="1"/>
+        <pt x="12" y="510" on="0"/>
+        <pt x="71" y="615" on="0"/>
+        <pt x="171" y="677" on="0"/>
+        <pt x="233" y="677" on="1"/>
+        <pt x="295" y="677" on="0"/>
+        <pt x="395" y="615" on="0"/>
+        <pt x="453" y="510" on="0"/>
+        <pt x="453" y="447" on="1"/>
+        <pt x="453" y="384" on="0"/>
+        <pt x="394" y="279" on="0"/>
+        <pt x="295" y="216" on="0"/>
+      </contour>
+      <contour>
+        <pt x="233" y="419" on="1"/>
+        <pt x="252" y="419" on="0"/>
+        <pt x="274" y="437" on="0"/>
+        <pt x="274" y="447" on="1"/>
+        <pt x="274" y="458" on="0"/>
+        <pt x="253" y="474" on="0"/>
+        <pt x="233" y="474" on="1"/>
+        <pt x="213" y="474" on="0"/>
+        <pt x="191" y="458" on="0"/>
+        <pt x="191" y="447" on="1"/>
+        <pt x="191" y="437" on="0"/>
+        <pt x="214" y="419" on="0"/>
+      </contour>
+      <contour>
+        <pt x="830" y="-87" on="1"/>
+        <pt x="768" y="-87" on="0"/>
+        <pt x="668" y="-24" on="0"/>
+        <pt x="609" y="81" on="0"/>
+        <pt x="609" y="144" on="1"/>
+        <pt x="609" y="207" on="0"/>
+        <pt x="668" y="312" on="0"/>
+        <pt x="768" y="374" on="0"/>
+        <pt x="830" y="374" on="1"/>
+        <pt x="892" y="374" on="0"/>
+        <pt x="992" y="312" on="0"/>
+        <pt x="1050" y="207" on="0"/>
+        <pt x="1050" y="144" on="1"/>
+        <pt x="1050" y="81" on="0"/>
+        <pt x="991" y="-24" on="0"/>
+        <pt x="892" y="-87" on="0"/>
+      </contour>
+      <contour>
+        <pt x="830" y="116" on="1"/>
+        <pt x="850" y="116" on="0"/>
+        <pt x="871" y="133" on="0"/>
+        <pt x="871" y="144" on="1"/>
+        <pt x="871" y="155" on="0"/>
+        <pt x="850" y="171" on="0"/>
+        <pt x="830" y="171" on="1"/>
+        <pt x="810" y="171" on="0"/>
+        <pt x="788" y="155" on="0"/>
+        <pt x="788" y="144" on="1"/>
+        <pt x="788" y="133" on="0"/>
+        <pt x="810" y="116" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 94 values pushed */
+          3 1 3 1 1 1 4 6 2 76 2 1 1 74 0 1 0 3 2 1 3 105 9 1 2
+          8 1 0 7 2 0 105 0 5 0 7 6 5 7 105 11 1 6 4 4 6 89 11 1 6
+          6 4 97 10 1 4 6 4 81 49 48 33 32 21 20 5 4 55 53 48 59 49 59 41 39
+          32 47 33 47 27 25 20 31 21 31 13 11 4 19 5 19 12 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="period" xMin="8" yMin="-8" xMax="236" yMax="220">
+      <contour>
+        <pt x="8" y="105" on="1"/>
+        <pt x="8" y="156" on="0"/>
+        <pt x="72" y="220" on="0"/>
+        <pt x="122" y="220" on="1"/>
+        <pt x="173" y="220" on="0"/>
+        <pt x="236" y="156" on="0"/>
+        <pt x="236" y="105" on="1"/>
+        <pt x="236" y="55" on="0"/>
+        <pt x="173" y="-8" on="0"/>
+        <pt x="122" y="-8" on="1"/>
+        <pt x="71" y="-8" on="0"/>
+        <pt x="8" y="55" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 21 values pushed */
+          0 0 1 1 0 89 0 0 0 1 97 0 1 0 1 81 36 34 2 6 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="periodcentered" xMin="8" yMin="166" xMax="236" yMax="394">
+      <contour>
+        <pt x="122" y="166" on="1"/>
+        <pt x="71" y="166" on="0"/>
+        <pt x="8" y="229" on="0"/>
+        <pt x="8" y="279" on="1"/>
+        <pt x="8" y="330" on="0"/>
+        <pt x="72" y="394" on="0"/>
+        <pt x="122" y="394" on="1"/>
+        <pt x="173" y="394" on="0"/>
+        <pt x="236" y="330" on="0"/>
+        <pt x="236" y="279" on="1"/>
+        <pt x="236" y="229" on="0"/>
+        <pt x="173" y="166" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 28 values pushed */
+          0 1 0 0 1 89 0 1 1 0 97 2 1 0 1 0 81 1 0 7 5 0 11 1 11
+          3 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="plus" xMin="12" yMin="168" xMax="452" yMax="455">
+      <contour>
+        <pt x="12" y="168" on="1"/>
+        <pt x="12" y="340" on="1"/>
+        <pt x="137" y="340" on="1"/>
+        <pt x="137" y="455" on="1"/>
+        <pt x="327" y="455" on="1"/>
+        <pt x="327" y="340" on="1"/>
+        <pt x="452" y="340" on="1"/>
+        <pt x="452" y="168" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 36 values pushed */
+          0 1 0 1 133 2 1 0 3 3 0 87 2 1 0 0 3 95 4 1 3 0 3 79 0
+          0 0 7 0 7 17 17 17 5 6 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="question" xMin="8" yMin="-8" xMax="433" yMax="634">
+      <contour>
+        <pt x="95" y="237" on="1"/>
+        <pt x="95" y="245" on="1"/>
+        <pt x="95" y="297" on="0"/>
+        <pt x="125" y="358" on="0"/>
+        <pt x="169" y="390" on="0"/>
+        <pt x="213" y="405" on="0"/>
+        <pt x="243" y="415" on="0"/>
+        <pt x="243" y="424" on="1"/>
+        <pt x="243" y="439" on="0"/>
+        <pt x="199" y="457" on="0"/>
+        <pt x="172" y="457" on="1"/>
+        <pt x="133" y="457" on="0"/>
+        <pt x="59" y="441" on="0"/>
+        <pt x="8" y="419" on="1"/>
+        <pt x="8" y="595" on="1"/>
+        <pt x="36" y="611" on="0"/>
+        <pt x="84" y="627" on="0"/>
+        <pt x="145" y="634" on="0"/>
+        <pt x="190" y="634" on="1"/>
+        <pt x="232" y="634" on="0"/>
+        <pt x="317" y="608" on="0"/>
+        <pt x="389" y="557" on="0"/>
+        <pt x="433" y="485" on="0"/>
+        <pt x="433" y="439" on="1"/>
+        <pt x="433" y="398" on="0"/>
+        <pt x="403" y="354" on="0"/>
+        <pt x="359" y="329" on="0"/>
+        <pt x="315" y="308" on="0"/>
+        <pt x="285" y="276" on="0"/>
+        <pt x="285" y="245" on="1"/>
+        <pt x="285" y="237" on="1"/>
+      </contour>
+      <contour>
+        <pt x="190" y="-8" on="1"/>
+        <pt x="139" y="-8" on="0"/>
+        <pt x="76" y="55" on="0"/>
+        <pt x="76" y="105" on="1"/>
+        <pt x="76" y="156" on="0"/>
+        <pt x="140" y="220" on="0"/>
+        <pt x="190" y="220" on="1"/>
+        <pt x="241" y="220" on="0"/>
+        <pt x="304" y="156" on="0"/>
+        <pt x="304" y="105" on="1"/>
+        <pt x="304" y="55" on="0"/>
+        <pt x="241" y="-8" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 63 values pushed */
+          14 1 0 1 13 1 2 0 2 76 5 1 2 0 4 0 2 4 128 0 1 0 0 2 1
+          0 105 0 4 3 3 4 89 0 4 4 3 97 6 1 3 4 3 81 32 31 0 0 38 36
+          31 42 32 42 0 30 0 29 38 41 7 6 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="quotedbl" xMin="18" yMin="304" xMax="510" yMax="630">
+      <contour>
+        <pt x="255" y="304" on="1"/>
+        <pt x="302" y="630" on="1"/>
+        <pt x="510" y="630" on="1"/>
+        <pt x="427" y="304" on="1"/>
+      </contour>
+      <contour>
+        <pt x="18" y="304" on="1"/>
+        <pt x="65" y="630" on="1"/>
+        <pt x="273" y="630" on="1"/>
+        <pt x="190" y="304" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 31 values pushed */
+          2 1 0 1 0 133 5 3 4 3 1 1 118 4 4 0 0 4 7 4 7 6 5 0 3
+          0 3 17 6 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="quotesingle" xMin="18" yMin="304" xMax="273" yMax="630">
+      <contour>
+        <pt x="18" y="304" on="1"/>
+        <pt x="65" y="630" on="1"/>
+        <pt x="273" y="630" on="1"/>
+        <pt x="190" y="304" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 20 values pushed */
+          0 0 1 0 133 2 1 1 1 118 0 0 0 3 0 3 17 3 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="registered" xMin="14" yMin="172" xMax="477" yMax="631">
+      <contour>
+        <pt x="246" y="172" on="1"/>
+        <pt x="182" y="172" on="0"/>
+        <pt x="77" y="234" on="0"/>
+        <pt x="14" y="339" on="0"/>
+        <pt x="14" y="402" on="1"/>
+        <pt x="14" y="465" on="0"/>
+        <pt x="77" y="569" on="0"/>
+        <pt x="182" y="631" on="0"/>
+        <pt x="246" y="631" on="1"/>
+        <pt x="310" y="631" on="0"/>
+        <pt x="414" y="569" on="0"/>
+        <pt x="477" y="465" on="0"/>
+        <pt x="477" y="402" on="1"/>
+        <pt x="477" y="339" on="0"/>
+        <pt x="414" y="234" on="0"/>
+        <pt x="310" y="172" on="0"/>
+      </contour>
+      <contour>
+        <pt x="246" y="236" on="1"/>
+        <pt x="291" y="236" on="0"/>
+        <pt x="365" y="281" on="0"/>
+        <pt x="409" y="357" on="0"/>
+        <pt x="409" y="402" on="1"/>
+        <pt x="409" y="447" on="0"/>
+        <pt x="365" y="522" on="0"/>
+        <pt x="291" y="567" on="0"/>
+        <pt x="246" y="567" on="1"/>
+        <pt x="201" y="567" on="0"/>
+        <pt x="126" y="522" on="0"/>
+        <pt x="82" y="448" on="0"/>
+        <pt x="82" y="402" on="1"/>
+        <pt x="82" y="357" on="0"/>
+        <pt x="126" y="281" on="0"/>
+        <pt x="201" y="236" on="0"/>
+      </contour>
+      <contour>
+        <pt x="153" y="287" on="1"/>
+        <pt x="153" y="522" on="1"/>
+        <pt x="241" y="522" on="1"/>
+        <pt x="290" y="522" on="0"/>
+        <pt x="353" y="469" on="0"/>
+        <pt x="353" y="425" on="1"/>
+        <pt x="353" y="379" on="0"/>
+        <pt x="315" y="354" on="1"/>
+        <pt x="347" y="285" on="1"/>
+        <pt x="257" y="286" on="1"/>
+        <pt x="237" y="335" on="1"/>
+        <pt x="229" y="335" on="1"/>
+        <pt x="229" y="287" on="1"/>
+      </contour>
+      <contour>
+        <pt x="229" y="407" on="1"/>
+        <pt x="241" y="407" on="1"/>
+        <pt x="262" y="407" on="0"/>
+        <pt x="277" y="417" on="0"/>
+        <pt x="277" y="425" on="1"/>
+        <pt x="277" y="450" on="0"/>
+        <pt x="241" y="450" on="1"/>
+        <pt x="229" y="450" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 85 values pushed */
+          42 39 2 5 7 1 76 0 1 0 3 4 1 3 105 0 4 0 8 7 4 8 105 0 7
+          11 6 2 5 2 7 5 103 10 1 2 0 0 2 89 10 1 2 2 0 97 9 1 0 2
+          0 81 32 32 17 16 1 0 52 50 47 45 32 44 32 44 41 40 35 33 25 23 16 31 17
+          31 9 7 0 15 1 15 12 6 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="semicolon" xMin="-4" yMin="-114" xMax="251" yMax="500">
+      <contour>
+        <pt x="122" y="272" on="1"/>
+        <pt x="71" y="272" on="0"/>
+        <pt x="8" y="335" on="0"/>
+        <pt x="8" y="385" on="1"/>
+        <pt x="8" y="436" on="0"/>
+        <pt x="72" y="500" on="0"/>
+        <pt x="122" y="500" on="1"/>
+        <pt x="173" y="500" on="0"/>
+        <pt x="236" y="436" on="0"/>
+        <pt x="236" y="385" on="1"/>
+        <pt x="236" y="335" on="0"/>
+        <pt x="173" y="272" on="0"/>
+      </contour>
+      <contour>
+        <pt x="-4" y="-114" on="1"/>
+        <pt x="43" y="212" on="1"/>
+        <pt x="251" y="212" on="1"/>
+        <pt x="168" y="-114" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 49 values pushed */
+          0 2 0 3 0 2 3 128 5 1 3 3 132 0 1 0 0 1 89 0 1 1 0 97 4
+          1 0 1 0 81 12 12 1 0 12 15 12 15 14 13 7 5 0 11 1 11 6 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="seven" xMin="7" yMin="0" xMax="565" yMax="600">
+      <contour>
+        <pt x="369" y="0" on="1"/>
+        <pt x="160" y="0" on="1"/>
+        <pt x="287" y="390" on="1"/>
+        <pt x="7" y="390" on="1"/>
+        <pt x="7" y="600" on="1"/>
+        <pt x="565" y="600" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 27 values pushed */
+          0 0 1 0 134 0 2 1 1 2 87 0 2 2 1 95 0 1 2 1 79 17 17 16 3
+          6 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="six" xMin="5" yMin="-25" xMax="552" yMax="603">
+      <contour>
+        <pt x="278" y="-25" on="1"/>
+        <pt x="203" y="-25" on="0"/>
+        <pt x="79" y="35" on="0"/>
+        <pt x="5" y="150" on="0"/>
+        <pt x="5" y="232" on="1"/>
+        <pt x="5" y="233" on="0"/>
+        <pt x="5" y="233" on="1"/>
+        <pt x="6" y="409" on="0"/>
+        <pt x="217" y="603" on="1"/>
+        <pt x="436" y="603" on="1"/>
+        <pt x="398" y="565" on="0"/>
+        <pt x="317" y="493" on="0"/>
+        <pt x="280" y="452" on="1"/>
+        <pt x="296" y="453" on="0"/>
+        <pt x="312" y="453" on="1"/>
+        <pt x="385" y="453" on="0"/>
+        <pt x="493" y="391" on="0"/>
+        <pt x="552" y="290" on="0"/>
+        <pt x="552" y="232" on="1"/>
+        <pt x="552" y="144" on="0"/>
+        <pt x="481" y="30" on="0"/>
+        <pt x="357" y="-25" on="0"/>
+      </contour>
+      <contour>
+        <pt x="282" y="185" on="1"/>
+        <pt x="320" y="185" on="0"/>
+        <pt x="362" y="200" on="0"/>
+        <pt x="362" y="215" on="1"/>
+        <pt x="362" y="228" on="0"/>
+        <pt x="320" y="243" on="0"/>
+        <pt x="282" y="243" on="1"/>
+        <pt x="245" y="243" on="0"/>
+        <pt x="196" y="228" on="0"/>
+        <pt x="196" y="215" on="1"/>
+        <pt x="196" y="200" on="0"/>
+        <pt x="245" y="185" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 53 values pushed */
+          0 1 2 1 133 0 2 0 4 3 2 4 105 6 1 3 0 0 3 89 6 1 3 3 0
+          97 5 1 0 3 0 81 23 22 1 0 29 27 22 33 23 33 15 12 9 8 0 21 1 21
+          7 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="slash" xMin="4" yMin="-185" xMax="477" yMax="730">
+      <contour>
+        <pt x="4" y="-185" on="1"/>
+        <pt x="277" y="730" on="1"/>
+        <pt x="477" y="730" on="1"/>
+        <pt x="204" y="-185" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 20 values pushed */
+          0 0 1 0 133 2 1 1 1 118 0 0 0 3 0 3 17 3 6 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="space"/><!-- contains no outline data -->
+
+    <TTGlyph name="three" xMin="26" yMin="-28" xMax="537" yMax="600">
+      <contour>
+        <pt x="254" y="-28" on="1"/>
+        <pt x="192" y="-28" on="0"/>
+        <pt x="71" y="-13" on="0"/>
+        <pt x="26" y="0" on="1"/>
+        <pt x="26" y="217" on="1"/>
+        <pt x="76" y="205" on="0"/>
+        <pt x="149" y="189" on="0"/>
+        <pt x="215" y="182" on="0"/>
+        <pt x="254" y="182" on="1"/>
+        <pt x="274" y="182" on="0"/>
+        <pt x="317" y="189" on="0"/>
+        <pt x="347" y="202" on="0"/>
+        <pt x="347" y="211" on="1"/>
+        <pt x="347" y="224" on="0"/>
+        <pt x="282" y="237" on="0"/>
+        <pt x="170" y="243" on="0"/>
+        <pt x="97" y="243" on="1"/>
+        <pt x="215" y="390" on="1"/>
+        <pt x="26" y="390" on="1"/>
+        <pt x="26" y="600" on="1"/>
+        <pt x="524" y="600" on="1"/>
+        <pt x="524" y="442" on="1"/>
+        <pt x="404" y="351" on="1"/>
+        <pt x="475" y="321" on="0"/>
+        <pt x="537" y="241" on="0"/>
+        <pt x="537" y="179" on="1"/>
+        <pt x="537" y="124" on="0"/>
+        <pt x="471" y="30" on="0"/>
+        <pt x="345" y="-28" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 68 values pushed */
+          21 1 3 4 22 1 2 3 4 1 1 2 3 1 0 1 4 76 0 2 3 1 3 2 1
+          128 0 4 0 3 2 4 3 103 0 1 0 0 1 89 0 1 1 0 97 5 1 0 1 0
+          81 1 0 20 19 18 17 16 14 9 7 0 28 1 28 6 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="trademark" xMin="24" yMin="272" xMax="665" yMax="594">
+      <contour>
+        <pt x="279" y="272" on="1"/>
+        <pt x="279" y="594" on="1"/>
+        <pt x="377" y="594" on="1"/>
+        <pt x="472" y="469" on="1"/>
+        <pt x="567" y="594" on="1"/>
+        <pt x="665" y="594" on="1"/>
+        <pt x="665" y="272" on="1"/>
+        <pt x="555" y="272" on="1"/>
+        <pt x="555" y="389" on="1"/>
+        <pt x="472" y="299" on="1"/>
+        <pt x="389" y="389" on="1"/>
+        <pt x="389" y="272" on="1"/>
+      </contour>
+      <contour>
+        <pt x="86" y="272" on="1"/>
+        <pt x="86" y="474" on="1"/>
+        <pt x="24" y="474" on="1"/>
+        <pt x="24" y="594" on="1"/>
+        <pt x="260" y="594" on="1"/>
+        <pt x="260" y="474" on="1"/>
+        <pt x="196" y="474" on="1"/>
+        <pt x="196" y="272" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 63 values pushed */
+          10 9 8 3 4 2 4 1 76 9 7 8 3 4 2 4 2 134 5 1 2 0 4 4 0
+          87 5 1 2 0 0 4 95 6 1 4 0 4 79 12 12 0 0 12 19 12 19 18 17 16
+          15 14 13 0 11 0 11 17 18 17 10 6 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="two" xMin="35" yMin="0" xMax="528" yMax="630">
+      <contour>
+        <pt x="35" y="0" on="1"/>
+        <pt x="35" y="207" on="1"/>
+        <pt x="122" y="229" on="0"/>
+        <pt x="233" y="271" on="0"/>
+        <pt x="294" y="310" on="0"/>
+        <pt x="318" y="346" on="0"/>
+        <pt x="318" y="363" on="1"/>
+        <pt x="318" y="386" on="0"/>
+        <pt x="280" y="418" on="0"/>
+        <pt x="248" y="418" on="1"/>
+        <pt x="208" y="418" on="0"/>
+        <pt x="113" y="387" on="0"/>
+        <pt x="35" y="342" on="1"/>
+        <pt x="35" y="552" on="1"/>
+        <pt x="89" y="587" on="0"/>
+        <pt x="209" y="630" on="0"/>
+        <pt x="300" y="630" on="1"/>
+        <pt x="378" y="630" on="0"/>
+        <pt x="479" y="573" on="0"/>
+        <pt x="528" y="481" on="0"/>
+        <pt x="528" y="429" on="1"/>
+        <pt x="528" y="361" on="0"/>
+        <pt x="482" y="273" on="0"/>
+        <pt x="417" y="223" on="0"/>
+        <pt x="389" y="210" on="1"/>
+        <pt x="522" y="210" on="1"/>
+        <pt x="522" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 51 values pushed */
+          13 1 0 1 12 1 2 0 1 1 3 2 3 76 0 1 0 0 2 1 0 105 0 2 3
+          3 2 87 0 2 2 3 95 4 1 3 2 3 79 0 0 0 26 0 26 23 37 40 5 6
+          25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="underscore" xMin="21" yMin="-40" xMax="391" yMax="132">
+      <contour>
+        <pt x="21" y="132" on="1"/>
+        <pt x="391" y="132" on="1"/>
+        <pt x="391" y="-40" on="1"/>
+        <pt x="21" y="-40" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 21 values pushed */
+          0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 17 16 2 6 24
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni00A0"/><!-- contains no outline data -->
+
+    <TTGlyph name="uni05B0" xMin="-59" yMin="-328" xMax="58" yMax="-75">
+      <contour>
+        <pt x="0" y="-193" on="1"/>
+        <pt x="-25" y="-193" on="0"/>
+        <pt x="-59" y="-158" on="0"/>
+        <pt x="-59" y="-134" on="1"/>
+        <pt x="-59" y="-110" on="0"/>
+        <pt x="-25" y="-75" on="0"/>
+        <pt x="0" y="-75" on="1"/>
+        <pt x="24" y="-75" on="0"/>
+        <pt x="58" y="-110" on="0"/>
+        <pt x="58" y="-134" on="1"/>
+        <pt x="58" y="-158" on="0"/>
+        <pt x="24" y="-193" on="0"/>
+      </contour>
+      <contour>
+        <pt x="0" y="-328" on="1"/>
+        <pt x="-25" y="-328" on="0"/>
+        <pt x="-59" y="-293" on="0"/>
+        <pt x="-59" y="-269" on="1"/>
+        <pt x="-59" y="-245" on="0"/>
+        <pt x="-25" y="-210" on="0"/>
+        <pt x="0" y="-210" on="1"/>
+        <pt x="24" y="-210" on="0"/>
+        <pt x="58" y="-245" on="0"/>
+        <pt x="58" y="-269" on="1"/>
+        <pt x="58" y="-293" on="0"/>
+        <pt x="24" y="-328" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 45 values pushed */
+          0 1 4 1 0 3 1 0 105 0 3 2 2 3 89 0 3 3 2 97 5 1 2 3 2
+          81 13 12 1 0 19 17 12 23 13 23 7 5 0 11 1 11 6 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05B1" xMin="-210" yMin="-328" xMax="207" yMax="-75">
+      <contour>
+        <pt x="149" y="-193" on="1"/>
+        <pt x="124" y="-193" on="0"/>
+        <pt x="90" y="-158" on="0"/>
+        <pt x="90" y="-134" on="1"/>
+        <pt x="90" y="-110" on="0"/>
+        <pt x="124" y="-75" on="0"/>
+        <pt x="149" y="-75" on="1"/>
+        <pt x="173" y="-75" on="0"/>
+        <pt x="207" y="-110" on="0"/>
+        <pt x="207" y="-134" on="1"/>
+        <pt x="207" y="-158" on="0"/>
+        <pt x="173" y="-193" on="0"/>
+      </contour>
+      <contour>
+        <pt x="-151" y="-193" on="1"/>
+        <pt x="-176" y="-193" on="0"/>
+        <pt x="-210" y="-158" on="0"/>
+        <pt x="-210" y="-134" on="1"/>
+        <pt x="-210" y="-110" on="0"/>
+        <pt x="-176" y="-75" on="0"/>
+        <pt x="-151" y="-75" on="1"/>
+        <pt x="-127" y="-75" on="0"/>
+        <pt x="-93" y="-110" on="0"/>
+        <pt x="-93" y="-134" on="1"/>
+        <pt x="-93" y="-158" on="0"/>
+        <pt x="-127" y="-193" on="0"/>
+      </contour>
+      <contour>
+        <pt x="3" y="-193" on="1"/>
+        <pt x="-22" y="-193" on="0"/>
+        <pt x="-56" y="-158" on="0"/>
+        <pt x="-56" y="-134" on="1"/>
+        <pt x="-56" y="-110" on="0"/>
+        <pt x="-22" y="-75" on="0"/>
+        <pt x="3" y="-75" on="1"/>
+        <pt x="27" y="-75" on="0"/>
+        <pt x="61" y="-110" on="0"/>
+        <pt x="61" y="-134" on="1"/>
+        <pt x="61" y="-158" on="0"/>
+        <pt x="27" y="-193" on="0"/>
+      </contour>
+      <contour>
+        <pt x="149" y="-328" on="1"/>
+        <pt x="124" y="-328" on="0"/>
+        <pt x="90" y="-293" on="0"/>
+        <pt x="90" y="-269" on="1"/>
+        <pt x="90" y="-245" on="0"/>
+        <pt x="124" y="-210" on="0"/>
+        <pt x="149" y="-210" on="1"/>
+        <pt x="173" y="-210" on="0"/>
+        <pt x="207" y="-245" on="0"/>
+        <pt x="207" y="-269" on="1"/>
+        <pt x="207" y="-293" on="0"/>
+        <pt x="173" y="-328" on="0"/>
+      </contour>
+      <contour>
+        <pt x="-74" y="-328" on="1"/>
+        <pt x="-99" y="-328" on="0"/>
+        <pt x="-133" y="-293" on="0"/>
+        <pt x="-133" y="-269" on="1"/>
+        <pt x="-133" y="-245" on="0"/>
+        <pt x="-99" y="-210" on="0"/>
+        <pt x="-74" y="-210" on="1"/>
+        <pt x="-50" y="-210" on="0"/>
+        <pt x="-16" y="-245" on="0"/>
+        <pt x="-16" y="-269" on="1"/>
+        <pt x="-16" y="-293" on="0"/>
+        <pt x="-50" y="-328" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 79 values pushed */
+          5 3 2 1 12 4 11 2 10 5 0 7 1 0 105 9 1 7 6 6 7 89 9 1 7
+          7 6 97 14 8 13 3 6 7 6 81 49 48 37 36 25 24 13 12 1 0 55 53 48 59
+          49 59 43 41 36 47 37 47 31 29 24 35 25 35 19 17 12 23 13 23 7 5 0 11 1
+          11 15 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05B2" xMin="-204" yMin="-328" xMax="191" yMax="-75">
+      <contour>
+        <pt x="133" y="-193" on="1"/>
+        <pt x="108" y="-193" on="0"/>
+        <pt x="74" y="-158" on="0"/>
+        <pt x="74" y="-134" on="1"/>
+        <pt x="74" y="-110" on="0"/>
+        <pt x="108" y="-75" on="0"/>
+        <pt x="133" y="-75" on="1"/>
+        <pt x="157" y="-75" on="0"/>
+        <pt x="191" y="-110" on="0"/>
+        <pt x="191" y="-134" on="1"/>
+        <pt x="191" y="-158" on="0"/>
+        <pt x="157" y="-193" on="0"/>
+      </contour>
+      <contour>
+        <pt x="-204" y="-171" on="1"/>
+        <pt x="-204" y="-87" on="1"/>
+        <pt x="42" y="-87" on="1"/>
+        <pt x="42" y="-171" on="1"/>
+      </contour>
+      <contour>
+        <pt x="133" y="-328" on="1"/>
+        <pt x="108" y="-328" on="0"/>
+        <pt x="74" y="-293" on="0"/>
+        <pt x="74" y="-269" on="1"/>
+        <pt x="74" y="-245" on="0"/>
+        <pt x="108" y="-210" on="0"/>
+        <pt x="133" y="-210" on="1"/>
+        <pt x="157" y="-210" on="0"/>
+        <pt x="191" y="-245" on="0"/>
+        <pt x="191" y="-269" on="1"/>
+        <pt x="191" y="-293" on="0"/>
+        <pt x="157" y="-328" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          12
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 29 values pushed */
+            2 1 1 7 3 6 3 0 5 1 0 105 0 5 4 4 5 89 0 5 5 4 97 8 1
+            4 5 4 81
+          ELSE[ ]	/* Else */
+            MPPEM[ ]	/* MeasurePixelPerEm */
+            PUSHB[ ]	/* 1 value pushed */
+            21
+            LT[ ]	/* LessThan */
+            IF[ ]	/* If */
+              NPUSHB[ ]	/* 34 values pushed */
+              7 1 3 0 1 3 87 2 1 1 6 1 0 5 1 0 105 0 5 4 4 5 89 0 5
+              5 4 97 8 1 4 5 4 81
+            ELSE[ ]	/* Else */
+              NPUSHB[ ]	/* 35 values pushed */
+              0 2 7 1 3 0 2 3 103 0 1 6 1 0 5 1 0 105 0 5 4 4 5 89 0
+              5 5 4 97 8 1 4 5 4 81
+            EIF[ ]	/* EndIf */
+          EIF[ ]	/* EndIf */
+          NPUSHB[ ]	/* 27 values pushed */
+          17 16 12 12 1 0 23 21 16 27 17 27 12 15 12 15 14 13 7 5 0 11 1 11 9
+          7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05B3" xMin="-204" yMin="-328" xMax="191" yMax="-75">
+      <contour>
+        <pt x="133" y="-193" on="1"/>
+        <pt x="108" y="-193" on="0"/>
+        <pt x="74" y="-158" on="0"/>
+        <pt x="74" y="-134" on="1"/>
+        <pt x="74" y="-110" on="0"/>
+        <pt x="108" y="-75" on="0"/>
+        <pt x="133" y="-75" on="1"/>
+        <pt x="157" y="-75" on="0"/>
+        <pt x="191" y="-110" on="0"/>
+        <pt x="191" y="-134" on="1"/>
+        <pt x="191" y="-158" on="0"/>
+        <pt x="157" y="-193" on="0"/>
+      </contour>
+      <contour>
+        <pt x="-124" y="-325" on="1"/>
+        <pt x="-119" y="-171" on="1"/>
+        <pt x="-204" y="-171" on="1"/>
+        <pt x="-204" y="-87" on="1"/>
+        <pt x="42" y="-87" on="1"/>
+        <pt x="42" y="-171" on="1"/>
+        <pt x="-43" y="-171" on="1"/>
+        <pt x="-38" y="-325" on="1"/>
+      </contour>
+      <contour>
+        <pt x="133" y="-328" on="1"/>
+        <pt x="108" y="-328" on="0"/>
+        <pt x="74" y="-293" on="0"/>
+        <pt x="74" y="-269" on="1"/>
+        <pt x="74" y="-245" on="0"/>
+        <pt x="108" y="-210" on="0"/>
+        <pt x="133" y="-210" on="1"/>
+        <pt x="157" y="-210" on="0"/>
+        <pt x="191" y="-245" on="0"/>
+        <pt x="191" y="-269" on="1"/>
+        <pt x="191" y="-293" on="0"/>
+        <pt x="157" y="-328" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          12
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 31 values pushed */
+            3 1 1 4 2 8 3 0 7 1 0 103 0 7 5 5 7 89 0 7 7 5 97 10 6
+            9 3 5 7 5 81
+          ELSE[ ]	/* Else */
+            MPPEM[ ]	/* MeasurePixelPerEm */
+            PUSHB[ ]	/* 1 value pushed */
+            21
+            LT[ ]	/* LessThan */
+            IF[ ]	/* If */
+              NPUSHB[ ]	/* 36 values pushed */
+              4 1 2 0 1 2 87 3 1 1 8 1 0 7 1 0 105 0 7 5 5 7 89 0 7
+              7 5 97 10 6 9 3 5 7 5 81
+            ELSE[ ]	/* Else */
+              NPUSHB[ ]	/* 37 values pushed */
+              0 3 4 1 2 0 3 2 103 0 1 8 1 0 7 1 0 105 0 7 5 5 7 89 0
+              7 7 5 97 10 6 9 3 5 7 5 81
+            EIF[ ]	/* EndIf */
+          EIF[ ]	/* EndIf */
+          NPUSHB[ ]	/* 31 values pushed */
+          21 20 12 12 1 0 27 25 20 31 21 31 12 19 12 19 18 17 16 15 14 13 7 5 0
+          11 1 11 11 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05B4" xMin="-59" yMin="-193" xMax="58" yMax="-75">
+      <contour>
+        <pt x="0" y="-193" on="1"/>
+        <pt x="-25" y="-193" on="0"/>
+        <pt x="-59" y="-158" on="0"/>
+        <pt x="-59" y="-134" on="1"/>
+        <pt x="-59" y="-110" on="0"/>
+        <pt x="-25" y="-75" on="0"/>
+        <pt x="0" y="-75" on="1"/>
+        <pt x="24" y="-75" on="0"/>
+        <pt x="58" y="-110" on="0"/>
+        <pt x="58" y="-134" on="1"/>
+        <pt x="58" y="-158" on="0"/>
+        <pt x="24" y="-193" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 28 values pushed */
+          0 1 0 0 1 89 0 1 1 0 97 2 1 0 1 0 81 1 0 7 5 0 11 1 11
+          3 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05B5" xMin="-136" yMin="-193" xMax="135" yMax="-75">
+      <contour>
+        <pt x="-77" y="-193" on="1"/>
+        <pt x="-102" y="-193" on="0"/>
+        <pt x="-136" y="-158" on="0"/>
+        <pt x="-136" y="-134" on="1"/>
+        <pt x="-136" y="-110" on="0"/>
+        <pt x="-102" y="-75" on="0"/>
+        <pt x="-77" y="-75" on="1"/>
+        <pt x="-53" y="-75" on="0"/>
+        <pt x="-19" y="-110" on="0"/>
+        <pt x="-19" y="-134" on="1"/>
+        <pt x="-19" y="-158" on="0"/>
+        <pt x="-53" y="-193" on="0"/>
+      </contour>
+      <contour>
+        <pt x="77" y="-193" on="1"/>
+        <pt x="52" y="-193" on="0"/>
+        <pt x="18" y="-158" on="0"/>
+        <pt x="18" y="-134" on="1"/>
+        <pt x="18" y="-110" on="0"/>
+        <pt x="52" y="-75" on="0"/>
+        <pt x="77" y="-75" on="1"/>
+        <pt x="101" y="-75" on="0"/>
+        <pt x="135" y="-110" on="0"/>
+        <pt x="135" y="-134" on="1"/>
+        <pt x="135" y="-158" on="0"/>
+        <pt x="101" y="-193" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 40 values pushed */
+          3 1 1 0 0 1 89 3 1 1 1 0 97 5 2 4 3 0 1 0 81 13 12 1 0
+          19 17 12 23 13 23 7 5 0 11 1 11 6 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05B6" xMin="-136" yMin="-328" xMax="135" yMax="-75">
+      <contour>
+        <pt x="-77" y="-193" on="1"/>
+        <pt x="-102" y="-193" on="0"/>
+        <pt x="-136" y="-158" on="0"/>
+        <pt x="-136" y="-134" on="1"/>
+        <pt x="-136" y="-110" on="0"/>
+        <pt x="-102" y="-75" on="0"/>
+        <pt x="-77" y="-75" on="1"/>
+        <pt x="-53" y="-75" on="0"/>
+        <pt x="-19" y="-110" on="0"/>
+        <pt x="-19" y="-134" on="1"/>
+        <pt x="-19" y="-158" on="0"/>
+        <pt x="-53" y="-193" on="0"/>
+      </contour>
+      <contour>
+        <pt x="77" y="-193" on="1"/>
+        <pt x="52" y="-193" on="0"/>
+        <pt x="18" y="-158" on="0"/>
+        <pt x="18" y="-134" on="1"/>
+        <pt x="18" y="-110" on="0"/>
+        <pt x="52" y="-75" on="0"/>
+        <pt x="77" y="-75" on="1"/>
+        <pt x="101" y="-75" on="0"/>
+        <pt x="135" y="-110" on="0"/>
+        <pt x="135" y="-134" on="1"/>
+        <pt x="135" y="-158" on="0"/>
+        <pt x="101" y="-193" on="0"/>
+      </contour>
+      <contour>
+        <pt x="0" y="-328" on="1"/>
+        <pt x="-25" y="-328" on="0"/>
+        <pt x="-59" y="-293" on="0"/>
+        <pt x="-59" y="-269" on="1"/>
+        <pt x="-59" y="-245" on="0"/>
+        <pt x="-25" y="-210" on="0"/>
+        <pt x="0" y="-210" on="1"/>
+        <pt x="24" y="-210" on="0"/>
+        <pt x="58" y="-245" on="0"/>
+        <pt x="58" y="-269" on="1"/>
+        <pt x="58" y="-293" on="0"/>
+        <pt x="24" y="-328" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 56 values pushed */
+          3 1 1 7 2 6 3 0 5 1 0 105 0 5 4 4 5 89 0 5 5 4 97 8 1
+          4 5 4 81 25 24 13 12 1 0 31 29 24 35 25 35 19 17 12 23 13 23 7 5 0
+          11 1 11 9 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05B7" xMin="-164" yMin="-171" xMax="166" yMax="-87">
+      <contour>
+        <pt x="-164" y="-171" on="1"/>
+        <pt x="-164" y="-87" on="1"/>
+        <pt x="166" y="-87" on="1"/>
+        <pt x="166" y="-171" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 27 values pushed */
+          0 0 1 1 0 87 0 0 0 1 95 2 1 1 0 1 79 0 0 0 3 0 3 17 3
+          7 23
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05B8" xMin="-164" yMin="-283" xMax="166" yMax="-87">
+      <contour>
+        <pt x="-164" y="-171" on="1"/>
+        <pt x="-164" y="-87" on="1"/>
+        <pt x="166" y="-87" on="1"/>
+        <pt x="166" y="-171" on="1"/>
+        <pt x="40" y="-171" on="1"/>
+        <pt x="44" y="-283" on="1"/>
+        <pt x="-42" y="-283" on="1"/>
+        <pt x="-38" y="-171" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          12
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 24 values pushed */
+            0 2 1 1 2 113 0 0 1 1 0 87 0 0 0 1 95 4 3 2 1 0 1 79
+          ELSE[ ]	/* Else */
+            NPUSHB[ ]	/* 23 values pushed */
+            0 2 1 2 134 0 0 1 1 0 87 0 0 0 1 95 4 3 2 1 0 1 79
+          EIF[ ]	/* EndIf */
+          NPUSHB[ ]	/* 12 values pushed */
+          0 0 0 7 0 7 17 17 17 5 7 25
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05B8.narrow" xMin="-94" yMin="-283" xMax="96" yMax="-87">
+      <contour>
+        <pt x="-94" y="-171" on="1"/>
+        <pt x="-94" y="-87" on="1"/>
+        <pt x="96" y="-87" on="1"/>
+        <pt x="96" y="-171" on="1"/>
+        <pt x="40" y="-171" on="1"/>
+        <pt x="44" y="-283" on="1"/>
+        <pt x="-42" y="-283" on="1"/>
+        <pt x="-38" y="-171" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 27 values pushed */
+          0 0 0 2 0 2 99 4 3 2 1 1 16 1 78 0 0 0 7 0 7 17 17 17 5
+          7 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05B9" xMin="-96" yMin="611" xMax="21" yMax="729">
+      <contour>
+        <pt x="-37" y="611" on="1"/>
+        <pt x="-62" y="611" on="0"/>
+        <pt x="-96" y="646" on="0"/>
+        <pt x="-96" y="670" on="1"/>
+        <pt x="-96" y="694" on="0"/>
+        <pt x="-62" y="729" on="0"/>
+        <pt x="-37" y="729" on="1"/>
+        <pt x="-13" y="729" on="0"/>
+        <pt x="21" y="694" on="0"/>
+        <pt x="21" y="670" on="1"/>
+        <pt x="21" y="646" on="0"/>
+        <pt x="-13" y="611" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 28 values pushed */
+          0 1 0 0 1 89 0 1 1 0 97 2 1 0 1 0 81 1 0 7 5 0 11 1 11
+          3 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05BA" xMin="-96" yMin="611" xMax="21" yMax="729">
+      <contour>
+        <pt x="-37" y="611" on="1"/>
+        <pt x="-62" y="611" on="0"/>
+        <pt x="-96" y="646" on="0"/>
+        <pt x="-96" y="670" on="1"/>
+        <pt x="-96" y="694" on="0"/>
+        <pt x="-62" y="729" on="0"/>
+        <pt x="-37" y="729" on="1"/>
+        <pt x="-13" y="729" on="0"/>
+        <pt x="21" y="694" on="0"/>
+        <pt x="21" y="670" on="1"/>
+        <pt x="21" y="646" on="0"/>
+        <pt x="-13" y="611" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 28 values pushed */
+          0 1 0 0 1 89 0 1 1 0 97 2 1 0 1 0 81 1 0 7 5 0 11 1 11
+          3 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05BB" xMin="-59" yMin="-389" xMax="212" yMax="-75">
+      <contour>
+        <pt x="0" y="-193" on="1"/>
+        <pt x="-25" y="-193" on="0"/>
+        <pt x="-59" y="-158" on="0"/>
+        <pt x="-59" y="-134" on="1"/>
+        <pt x="-59" y="-110" on="0"/>
+        <pt x="-25" y="-75" on="0"/>
+        <pt x="0" y="-75" on="1"/>
+        <pt x="24" y="-75" on="0"/>
+        <pt x="58" y="-110" on="0"/>
+        <pt x="58" y="-134" on="1"/>
+        <pt x="58" y="-158" on="0"/>
+        <pt x="24" y="-193" on="0"/>
+      </contour>
+      <contour>
+        <pt x="77" y="-291" on="1"/>
+        <pt x="52" y="-291" on="0"/>
+        <pt x="18" y="-256" on="0"/>
+        <pt x="18" y="-232" on="1"/>
+        <pt x="18" y="-208" on="0"/>
+        <pt x="52" y="-173" on="0"/>
+        <pt x="77" y="-173" on="1"/>
+        <pt x="101" y="-173" on="0"/>
+        <pt x="135" y="-208" on="0"/>
+        <pt x="135" y="-232" on="1"/>
+        <pt x="135" y="-256" on="0"/>
+        <pt x="101" y="-291" on="0"/>
+      </contour>
+      <contour>
+        <pt x="154" y="-389" on="1"/>
+        <pt x="129" y="-389" on="0"/>
+        <pt x="95" y="-354" on="0"/>
+        <pt x="95" y="-330" on="1"/>
+        <pt x="95" y="-306" on="0"/>
+        <pt x="129" y="-271" on="0"/>
+        <pt x="154" y="-271" on="1"/>
+        <pt x="178" y="-271" on="0"/>
+        <pt x="212" y="-306" on="0"/>
+        <pt x="212" y="-330" on="1"/>
+        <pt x="212" y="-354" on="0"/>
+        <pt x="178" y="-389" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 62 values pushed */
+          0 1 6 1 0 5 1 0 105 0 5 2 4 5 89 0 3 7 1 2 4 3 2 105 0
+          5 5 4 97 8 1 4 5 4 81 25 24 13 12 1 0 31 29 24 35 25 35 19 17 12
+          23 13 23 7 5 0 11 1 11 9 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05BC" xMin="-19" yMin="147" xMax="114" yMax="281">
+      <contour>
+        <pt x="48" y="147" on="1"/>
+        <pt x="20" y="147" on="0"/>
+        <pt x="-19" y="186" on="0"/>
+        <pt x="-19" y="214" on="1"/>
+        <pt x="-19" y="243" on="0"/>
+        <pt x="20" y="281" on="0"/>
+        <pt x="48" y="281" on="1"/>
+        <pt x="76" y="281" on="0"/>
+        <pt x="114" y="243" on="0"/>
+        <pt x="114" y="214" on="1"/>
+        <pt x="114" y="186" on="0"/>
+        <pt x="76" y="147" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 28 values pushed */
+          0 1 0 0 1 89 0 1 1 0 97 2 1 0 1 0 81 1 0 7 5 0 11 1 11
+          3 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05BE" xMin="21" yMin="384" xMax="321" yMax="556">
+      <contour>
+        <pt x="21" y="556" on="1"/>
+        <pt x="321" y="556" on="1"/>
+        <pt x="321" y="384" on="1"/>
+        <pt x="21" y="384" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 21 values pushed */
+          0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 17 16 2 7 24
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05BF" xMin="-164" yMin="629" xMax="166" yMax="713">
+      <contour>
+        <pt x="-164" y="629" on="1"/>
+        <pt x="-164" y="713" on="1"/>
+        <pt x="166" y="713" on="1"/>
+        <pt x="166" y="629" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 27 values pushed */
+          0 0 1 1 0 87 0 0 0 1 95 2 1 1 0 1 79 0 0 0 3 0 3 17 3
+          7 23
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05C1" xMin="-131" yMin="611" xMax="-14" yMax="729">
+      <contour>
+        <pt x="-72" y="611" on="1"/>
+        <pt x="-97" y="611" on="0"/>
+        <pt x="-131" y="646" on="0"/>
+        <pt x="-131" y="670" on="1"/>
+        <pt x="-131" y="694" on="0"/>
+        <pt x="-97" y="729" on="0"/>
+        <pt x="-72" y="729" on="1"/>
+        <pt x="-48" y="729" on="0"/>
+        <pt x="-14" y="694" on="0"/>
+        <pt x="-14" y="670" on="1"/>
+        <pt x="-14" y="646" on="0"/>
+        <pt x="-48" y="611" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 28 values pushed */
+          0 1 0 0 1 89 0 1 1 0 97 2 1 0 1 0 81 1 0 7 5 0 11 1 11
+          3 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05C2" xMin="30" yMin="611" xMax="147" yMax="729">
+      <contour>
+        <pt x="89" y="611" on="1"/>
+        <pt x="64" y="611" on="0"/>
+        <pt x="30" y="646" on="0"/>
+        <pt x="30" y="670" on="1"/>
+        <pt x="30" y="694" on="0"/>
+        <pt x="64" y="729" on="0"/>
+        <pt x="89" y="729" on="1"/>
+        <pt x="113" y="729" on="0"/>
+        <pt x="147" y="694" on="0"/>
+        <pt x="147" y="670" on="1"/>
+        <pt x="147" y="646" on="0"/>
+        <pt x="113" y="611" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          6 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          NPUSHB[ ]	/* 28 values pushed */
+          0 1 0 0 1 89 0 1 1 0 97 2 1 0 1 0 81 1 0 7 5 0 11 1 11
+          3 7 22
+          CALL[ ]	/* CallFunction */
+          PUSHB[ ]	/* 2 values pushed */
+          6 0
+          WCVTP[ ]	/* WriteCVTInPixels */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05D0" xMin="-2" yMin="0" xMax="602" yMax="556">
+      <contour>
+        <pt x="19" y="0" on="1"/>
+        <pt x="19" y="68" on="0"/>
+        <pt x="21" y="164" on="0"/>
+        <pt x="31" y="233" on="0"/>
+        <pt x="57" y="287" on="0"/>
+        <pt x="106" y="338" on="0"/>
+        <pt x="145" y="368" on="1"/>
+        <pt x="83" y="453" on="0"/>
+        <pt x="-2" y="556" on="1"/>
+        <pt x="235" y="556" on="1"/>
+        <pt x="268" y="514" on="0"/>
+        <pt x="333" y="430" on="0"/>
+        <pt x="364" y="387" on="1"/>
+        <pt x="377" y="420" on="0"/>
+        <pt x="381" y="500" on="0"/>
+        <pt x="381" y="556" on="1"/>
+        <pt x="591" y="556" on="1"/>
+        <pt x="591" y="465" on="0"/>
+        <pt x="572" y="340" on="0"/>
+        <pt x="526" y="248" on="0"/>
+        <pt x="487" y="206" on="1"/>
+        <pt x="517" y="158" on="0"/>
+        <pt x="575" y="55" on="0"/>
+        <pt x="602" y="0" on="1"/>
+        <pt x="370" y="0" on="1"/>
+        <pt x="337" y="62" on="0"/>
+        <pt x="276" y="170" on="0"/>
+        <pt x="244" y="220" on="1"/>
+        <pt x="232" y="191" on="0"/>
+        <pt x="229" y="90" on="0"/>
+        <pt x="229" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 35 values pushed */
+          27 20 12 6 4 2 0 1 76 1 1 0 0 14 77 4 3 2 2 2 15 2 78 0 0
+          0 30 0 30 23 22 24 5 7 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05D0.forDagesh" xMin="-2" yMin="0" xMax="640" yMax="556">
+      <contour>
+        <pt x="17" y="0" on="1"/>
+        <pt x="17" y="83" on="0"/>
+        <pt x="27" y="199" on="0"/>
+        <pt x="54" y="282" on="0"/>
+        <pt x="104" y="343" on="0"/>
+        <pt x="144" y="370" on="1"/>
+        <pt x="109" y="408" on="0"/>
+        <pt x="35" y="500" on="0"/>
+        <pt x="-2" y="556" on="1"/>
+        <pt x="235" y="556" on="1"/>
+        <pt x="272" y="501" on="0"/>
+        <pt x="353" y="408" on="0"/>
+        <pt x="392" y="366" on="1"/>
+        <pt x="412" y="402" on="0"/>
+        <pt x="419" y="491" on="0"/>
+        <pt x="419" y="556" on="1"/>
+        <pt x="629" y="556" on="1"/>
+        <pt x="629" y="468" on="0"/>
+        <pt x="611" y="346" on="0"/>
+        <pt x="569" y="256" on="0"/>
+        <pt x="533" y="215" on="1"/>
+        <pt x="573" y="167" on="0"/>
+        <pt x="630" y="62" on="0"/>
+        <pt x="640" y="0" on="1"/>
+        <pt x="408" y="0" on="1"/>
+        <pt x="393" y="77" on="0"/>
+        <pt x="318" y="188" on="0"/>
+        <pt x="266" y="244" on="1"/>
+        <pt x="247" y="212" on="0"/>
+        <pt x="227" y="92" on="0"/>
+        <pt x="227" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 35 values pushed */
+          27 20 12 5 4 2 0 1 76 1 1 0 0 14 77 4 3 2 2 2 15 2 78 0 0
+          0 30 0 30 23 22 24 5 7 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05D1" xMin="18" yMin="0" xMax="519" yMax="556">
+      <contour>
+        <pt x="18" y="0" on="1"/>
+        <pt x="18" y="200" on="1"/>
+        <pt x="262" y="200" on="1"/>
+        <pt x="262" y="295" on="1"/>
+        <pt x="262" y="330" on="0"/>
+        <pt x="206" y="356" on="0"/>
+        <pt x="165" y="356" on="1"/>
+        <pt x="18" y="356" on="1"/>
+        <pt x="18" y="556" on="1"/>
+        <pt x="165" y="556" on="1"/>
+        <pt x="257" y="556" on="0"/>
+        <pt x="395" y="491" on="0"/>
+        <pt x="472" y="373" on="0"/>
+        <pt x="472" y="295" on="1"/>
+        <pt x="472" y="200" on="1"/>
+        <pt x="519" y="200" on="1"/>
+        <pt x="519" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 36 values pushed */
+          0 1 1 2 95 0 2 2 14 77 3 1 0 0 4 95 5 1 4 4 15 4 78 0 0
+          0 16 0 16 20 33 35 17 6 7 26
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05D2" xMin="12" yMin="-3" xMax="390" yMax="556">
+      <contour>
+        <pt x="12" y="-3" on="1"/>
+        <pt x="12" y="187" on="1"/>
+        <pt x="61" y="187" on="0"/>
+        <pt x="137" y="221" on="0"/>
+        <pt x="162" y="253" on="1"/>
+        <pt x="161" y="267" on="1"/>
+        <pt x="157" y="316" on="0"/>
+        <pt x="98" y="366" on="0"/>
+        <pt x="28" y="366" on="1"/>
+        <pt x="28" y="556" on="1"/>
+        <pt x="132" y="556" on="0"/>
+        <pt x="264" y="516" on="0"/>
+        <pt x="338" y="442" on="0"/>
+        <pt x="369" y="340" on="0"/>
+        <pt x="373" y="279" on="1"/>
+        <pt x="390" y="0" on="1"/>
+        <pt x="181" y="0" on="1"/>
+        <pt x="175" y="78" on="1"/>
+        <pt x="143" y="42" on="0"/>
+        <pt x="60" y="-3" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 46 values pushed */
+          4 1 0 1 17 1 3 0 2 76 0 1 1 2 97 0 2 2 14 77 0 0 0 3 97
+          5 4 2 3 3 15 3 78 0 0 0 19 0 19 21 17 21 17 6 7 26
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05D3" xMin="12" yMin="4" xMax="529" yMax="556">
+      <contour>
+        <pt x="254" y="4" on="1"/>
+        <pt x="254" y="365" on="1"/>
+        <pt x="12" y="365" on="1"/>
+        <pt x="12" y="556" on="1"/>
+        <pt x="529" y="556" on="1"/>
+        <pt x="529" y="365" on="1"/>
+        <pt x="464" y="365" on="1"/>
+        <pt x="464" y="4" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 30 values pushed */
+          2 1 0 0 1 95 0 1 1 14 77 4 1 3 3 15 3 78 0 0 0 7 0 7 17
+          17 17 5 7 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05D4" xMin="18" yMin="0" xMax="601" yMax="556">
+      <contour>
+        <pt x="391" y="0" on="1"/>
+        <pt x="391" y="295" on="1"/>
+        <pt x="391" y="322" on="0"/>
+        <pt x="336" y="366" on="0"/>
+        <pt x="293" y="366" on="1"/>
+        <pt x="18" y="366" on="1"/>
+        <pt x="18" y="556" on="1"/>
+        <pt x="293" y="556" on="1"/>
+        <pt x="386" y="556" on="0"/>
+        <pt x="524" y="489" on="0"/>
+        <pt x="601" y="372" on="0"/>
+        <pt x="601" y="295" on="1"/>
+        <pt x="601" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="22" y="0" on="1"/>
+        <pt x="22" y="282" on="1"/>
+        <pt x="232" y="282" on="1"/>
+        <pt x="232" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 43 values pushed */
+          0 0 0 1 95 0 1 1 14 77 0 3 3 2 95 6 4 5 3 2 2 15 2 78 13
+          13 0 0 13 16 13 16 15 14 0 12 0 12 33 35 7 7 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05D5" xMin="18" yMin="0" xMax="312" yMax="556">
+      <contour>
+        <pt x="102" y="0" on="1"/>
+        <pt x="102" y="289" on="1"/>
+        <pt x="102" y="328" on="0"/>
+        <pt x="63" y="366" on="0"/>
+        <pt x="18" y="366" on="1"/>
+        <pt x="18" y="556" on="1"/>
+        <pt x="136" y="556" on="0"/>
+        <pt x="263" y="491" on="0"/>
+        <pt x="312" y="372" on="0"/>
+        <pt x="312" y="289" on="1"/>
+        <pt x="312" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 28 values pushed */
+          0 0 0 1 97 0 1 1 14 77 3 1 2 2 15 2 78 0 0 0 10 0 10 17 19
+          4 7 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05D6" xMin="9" yMin="0" xMax="347" yMax="556">
+      <contour>
+        <pt x="98" y="0" on="1"/>
+        <pt x="88" y="42" on="0"/>
+        <pt x="78" y="112" on="0"/>
+        <pt x="74" y="182" on="0"/>
+        <pt x="72" y="223" on="1"/>
+        <pt x="70" y="261" on="0"/>
+        <pt x="80" y="329" on="0"/>
+        <pt x="92" y="366" on="1"/>
+        <pt x="9" y="366" on="1"/>
+        <pt x="9" y="556" on="1"/>
+        <pt x="347" y="556" on="1"/>
+        <pt x="347" y="366" on="1"/>
+        <pt x="299" y="366" on="1"/>
+        <pt x="288" y="324" on="0"/>
+        <pt x="281" y="260" on="0"/>
+        <pt x="282" y="234" on="1"/>
+        <pt x="284" y="191" on="0"/>
+        <pt x="295" y="78" on="0"/>
+        <pt x="310" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 30 values pushed */
+          2 1 0 0 1 95 0 1 1 14 77 4 1 3 3 15 3 78 0 0 0 18 0 18 17
+          17 23 5 7 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05D7" xMin="18" yMin="0" xMax="593" yMax="556">
+      <contour>
+        <pt x="18" y="0" on="1"/>
+        <pt x="18" y="556" on="1"/>
+        <pt x="285" y="556" on="1"/>
+        <pt x="433" y="556" on="0"/>
+        <pt x="593" y="387" on="0"/>
+        <pt x="593" y="235" on="1"/>
+        <pt x="593" y="0" on="1"/>
+        <pt x="383" y="0" on="1"/>
+        <pt x="383" y="235" on="1"/>
+        <pt x="383" y="366" on="0"/>
+        <pt x="285" y="366" on="1"/>
+        <pt x="228" y="366" on="1"/>
+        <pt x="228" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 30 values pushed */
+          0 2 2 0 95 0 0 0 14 77 4 3 2 1 1 15 1 78 0 0 0 12 0 12 34
+          19 33 5 7 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05D8" xMin="17" yMin="-20" xMax="662" yMax="563">
+      <contour>
+        <pt x="340" y="-20" on="1"/>
+        <pt x="183" y="-20" on="0"/>
+        <pt x="17" y="149" on="0"/>
+        <pt x="18" y="297" on="1"/>
+        <pt x="19" y="556" on="1"/>
+        <pt x="229" y="556" on="1"/>
+        <pt x="228" y="276" on="1"/>
+        <pt x="228" y="234" on="0"/>
+        <pt x="279" y="170" on="0"/>
+        <pt x="340" y="170" on="1"/>
+        <pt x="378" y="170" on="0"/>
+        <pt x="427" y="201" on="0"/>
+        <pt x="452" y="248" on="0"/>
+        <pt x="452" y="272" on="1"/>
+        <pt x="452" y="307" on="0"/>
+        <pt x="414" y="363" on="0"/>
+        <pt x="376" y="363" on="1"/>
+        <pt x="363" y="363" on="0"/>
+        <pt x="333" y="362" on="0"/>
+        <pt x="313" y="357" on="1"/>
+        <pt x="308" y="547" on="1"/>
+        <pt x="353" y="555" on="0"/>
+        <pt x="407" y="563" on="0"/>
+        <pt x="429" y="563" on="1"/>
+        <pt x="513" y="563" on="0"/>
+        <pt x="615" y="490" on="0"/>
+        <pt x="662" y="368" on="0"/>
+        <pt x="662" y="293" on="1"/>
+        <pt x="662" y="192" on="0"/>
+        <pt x="581" y="52" on="0"/>
+        <pt x="436" y="-20" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 10 values pushed */
+          20 1 3 1 19 1 2 3 2 76
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          29
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 23 values pushed */
+            0 3 3 1 97 4 1 1 1 14 77 0 2 2 0 98 5 1 0 0 18 0 78
+          ELSE[ ]	/* Else */
+            MPPEM[ ]	/* MeasurePixelPerEm */
+            PUSHB[ ]	/* 1 value pushed */
+            34
+            LT[ ]	/* LessThan */
+            IF[ ]	/* If */
+              NPUSHB[ ]	/* 20 values pushed */
+              0 2 5 1 0 2 0 102 0 3 3 1 97 4 1 1 1 14 3 78
+            ELSE[ ]	/* Else */
+              NPUSHB[ ]	/* 24 values pushed */
+              0 2 5 1 0 2 0 102 0 1 1 14 77 0 3 3 4 97 0 4 4 14 3 78
+            EIF[ ]	/* EndIf */
+          EIF[ ]	/* EndIf */
+          NPUSHB[ ]	/* 17 values pushed */
+          1 0 24 22 18 15 10 8 5 4 0 30 1 30 6 7 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05D9" xMin="18" yMin="117" xMax="333" yMax="556">
+      <contour>
+        <pt x="280" y="117" on="1"/>
+        <pt x="101" y="184" on="1"/>
+        <pt x="115" y="225" on="0"/>
+        <pt x="123" y="275" on="0"/>
+        <pt x="123" y="299" on="1"/>
+        <pt x="123" y="322" on="0"/>
+        <pt x="79" y="362" on="0"/>
+        <pt x="18" y="366" on="1"/>
+        <pt x="18" y="556" on="1"/>
+        <pt x="107" y="556" on="0"/>
+        <pt x="228" y="518" on="0"/>
+        <pt x="301" y="456" on="0"/>
+        <pt x="333" y="381" on="0"/>
+        <pt x="333" y="344" on="1"/>
+        <pt x="333" y="295" on="0"/>
+        <pt x="305" y="180" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 20 values pushed */
+          1 1 0 73 0 0 0 1 97 0 1 1 14 0 78 17 22 2 7 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05DA" xMin="12" yMin="-152" xMax="537" yMax="556">
+      <contour>
+        <pt x="262" y="-152" on="1"/>
+        <pt x="262" y="365" on="1"/>
+        <pt x="12" y="365" on="1"/>
+        <pt x="12" y="556" on="1"/>
+        <pt x="537" y="556" on="1"/>
+        <pt x="537" y="365" on="1"/>
+        <pt x="472" y="365" on="1"/>
+        <pt x="472" y="-152" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          50
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 18 values pushed */
+            2 1 0 0 1 95 0 1 1 14 77 4 1 3 3 16 3 78
+          ELSE[ ]	/* Else */
+            NPUSHB[ ]	/* 18 values pushed */
+            4 1 3 0 3 134 2 1 0 0 1 95 0 1 1 14 0 78
+          EIF[ ]	/* EndIf */
+          NPUSHB[ ]	/* 12 values pushed */
+          0 0 0 7 0 7 17 17 17 5 7 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05DB" xMin="18" yMin="0" xMax="501" yMax="556">
+      <contour>
+        <pt x="31" y="0" on="1"/>
+        <pt x="31" y="190" on="1"/>
+        <pt x="195" y="190" on="1"/>
+        <pt x="242" y="190" on="0"/>
+        <pt x="291" y="231" on="0"/>
+        <pt x="291" y="278" on="1"/>
+        <pt x="291" y="325" on="0"/>
+        <pt x="242" y="366" on="0"/>
+        <pt x="195" y="366" on="1"/>
+        <pt x="18" y="366" on="1"/>
+        <pt x="18" y="556" on="1"/>
+        <pt x="195" y="556" on="1"/>
+        <pt x="303" y="556" on="0"/>
+        <pt x="438" y="500" on="0"/>
+        <pt x="501" y="378" on="0"/>
+        <pt x="501" y="278" on="1"/>
+        <pt x="501" y="179" on="0"/>
+        <pt x="438" y="56" on="0"/>
+        <pt x="303" y="0" on="0"/>
+        <pt x="195" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 34 values pushed */
+          0 1 1 2 95 0 2 2 14 77 0 0 0 3 95 4 1 3 3 15 3 78 0 0 0
+          19 0 18 33 36 33 5 7 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05DC" xMin="18" yMin="0" xMax="524" yMax="679">
+      <contour>
+        <pt x="161" y="0" on="1"/>
+        <pt x="161" y="186" on="1"/>
+        <pt x="216" y="186" on="0"/>
+        <pt x="283" y="214" on="0"/>
+        <pt x="314" y="258" on="0"/>
+        <pt x="314" y="281" on="1"/>
+        <pt x="314" y="319" on="0"/>
+        <pt x="275" y="355" on="0"/>
+        <pt x="194" y="366" on="0"/>
+        <pt x="131" y="366" on="1"/>
+        <pt x="18" y="366" on="1"/>
+        <pt x="18" y="679" on="1"/>
+        <pt x="229" y="678" on="1"/>
+        <pt x="229" y="556" on="1"/>
+        <pt x="271" y="556" on="1"/>
+        <pt x="355" y="556" on="0"/>
+        <pt x="467" y="492" on="0"/>
+        <pt x="524" y="379" on="0"/>
+        <pt x="524" y="305" on="1"/>
+        <pt x="524" y="220" on="0"/>
+        <pt x="440" y="82" on="0"/>
+        <pt x="279" y="2" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 38 values pushed */
+          0 2 0 1 0 2 1 103 0 3 3 14 77 0 0 0 4 98 5 1 4 4 15 4 78
+          0 0 0 21 0 21 33 17 38 17 6 7 26
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05DD" xMin="18" yMin="0" xMax="590" yMax="556">
+      <contour>
+        <pt x="18" y="0" on="1"/>
+        <pt x="18" y="556" on="1"/>
+        <pt x="297" y="556" on="1"/>
+        <pt x="382" y="556" on="0"/>
+        <pt x="514" y="480" on="0"/>
+        <pt x="590" y="347" on="0"/>
+        <pt x="590" y="261" on="1"/>
+        <pt x="590" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="228" y="190" on="1"/>
+        <pt x="380" y="190" on="1"/>
+        <pt x="380" y="261" on="1"/>
+        <pt x="380" y="317" on="0"/>
+        <pt x="338" y="366" on="0"/>
+        <pt x="297" y="366" on="1"/>
+        <pt x="228" y="366" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 36 values pushed */
+          0 3 3 0 95 0 0 0 14 77 0 2 2 1 95 4 1 1 1 15 1 78 0 0 14
+          12 9 8 0 7 0 7 33 5 7 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05DE" xMin="15" yMin="0" xMax="679" yMax="566">
+      <contour>
+        <pt x="407" y="0" on="1"/>
+        <pt x="270" y="0" on="1"/>
+        <pt x="295" y="180" on="1"/>
+        <pt x="390" y="180" on="1"/>
+        <pt x="434" y="180" on="0"/>
+        <pt x="469" y="236" on="0"/>
+        <pt x="469" y="271" on="1"/>
+        <pt x="469" y="291" on="0"/>
+        <pt x="454" y="335" on="0"/>
+        <pt x="418" y="366" on="0"/>
+        <pt x="386" y="366" on="1"/>
+        <pt x="332" y="366" on="0"/>
+        <pt x="263" y="237" on="0"/>
+        <pt x="240" y="92" on="1"/>
+        <pt x="228" y="0" on="1"/>
+        <pt x="15" y="0" on="1"/>
+        <pt x="30" y="106" on="1"/>
+        <pt x="51" y="255" on="0"/>
+        <pt x="95" y="354" on="1"/>
+        <pt x="76" y="362" on="0"/>
+        <pt x="38" y="368" on="0"/>
+        <pt x="22" y="368" on="1"/>
+        <pt x="22" y="561" on="1"/>
+        <pt x="76" y="561" on="0"/>
+        <pt x="162" y="524" on="0"/>
+        <pt x="195" y="494" on="1"/>
+        <pt x="278" y="566" on="0"/>
+        <pt x="403" y="566" on="1"/>
+        <pt x="466" y="566" on="0"/>
+        <pt x="568" y="518" on="0"/>
+        <pt x="640" y="435" on="0"/>
+        <pt x="679" y="329" on="0"/>
+        <pt x="679" y="271" on="1"/>
+        <pt x="679" y="133" on="0"/>
+        <pt x="534" y="0" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 10 values pushed */
+          25 1 2 5 18 1 1 2 2 76
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          46
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 25 values pushed */
+            4 1 2 2 5 97 6 1 5 5 14 77 0 1 1 0 95 3 7 2 0 0 15 0 78
+          ELSE[ ]	/* Else */
+            MPPEM[ ]	/* MeasurePixelPerEm */
+            PUSHB[ ]	/* 1 value pushed */
+            50
+            LT[ ]	/* LessThan */
+            IF[ ]	/* If */
+              NPUSHB[ ]	/* 35 values pushed */
+              4 1 2 2 6 97 0 6 6 14 77 4 1 2 2 5 97 0 5 5 14 77 0 1 1
+              0 95 3 7 2 0 0 15 0 78
+            ELSE[ ]	/* Else */
+              NPUSHB[ ]	/* 30 values pushed */
+              0 6 5 2 6 89 4 1 2 2 5 97 0 5 5 14 77 0 1 1 0 95 3 7 2
+              0 0 15 0 78
+            EIF[ ]	/* EndIf */
+          EIF[ ]	/* EndIf */
+          NPUSHB[ ]	/* 21 values pushed */
+          1 0 28 26 23 22 21 20 15 14 11 9 4 2 0 34 1 34 8 7 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05DF" xMin="18" yMin="-162" xMax="332" yMax="556">
+      <contour>
+        <pt x="122" y="-162" on="1"/>
+        <pt x="122" y="289" on="1"/>
+        <pt x="122" y="328" on="0"/>
+        <pt x="78" y="366" on="0"/>
+        <pt x="18" y="366" on="1"/>
+        <pt x="18" y="556" on="1"/>
+        <pt x="114" y="556" on="0"/>
+        <pt x="237" y="519" on="0"/>
+        <pt x="305" y="450" on="0"/>
+        <pt x="332" y="351" on="0"/>
+        <pt x="332" y="289" on="1"/>
+        <pt x="332" y="-162" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 28 values pushed */
+          0 0 0 1 97 0 1 1 14 77 3 1 2 2 16 2 78 0 0 0 11 0 11 17 19
+          4 7 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05E0" xMin="26" yMin="0" xMax="361" yMax="556">
+      <contour>
+        <pt x="26" y="0" on="1"/>
+        <pt x="26" y="190" on="1"/>
+        <pt x="151" y="190" on="1"/>
+        <pt x="151" y="253" on="1"/>
+        <pt x="151" y="312" on="0"/>
+        <pt x="86" y="366" on="0"/>
+        <pt x="29" y="366" on="1"/>
+        <pt x="29" y="556" on="1"/>
+        <pt x="150" y="556" on="0"/>
+        <pt x="296" y="477" on="0"/>
+        <pt x="361" y="331" on="0"/>
+        <pt x="361" y="231" on="1"/>
+        <pt x="361" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 34 values pushed */
+          0 1 1 2 97 0 2 2 14 77 0 0 0 3 95 4 1 3 3 15 3 78 0 0 0
+          12 0 12 17 19 17 5 7 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05E1" xMin="17" yMin="-3" xMax="669" yMax="556">
+      <contour>
+        <pt x="353" y="-3" on="1"/>
+        <pt x="262" y="-3" on="0"/>
+        <pt x="123" y="73" on="0"/>
+        <pt x="46" y="198" on="0"/>
+        <pt x="46" y="271" on="1"/>
+        <pt x="46" y="300" on="0"/>
+        <pt x="58" y="345" on="0"/>
+        <pt x="69" y="366" on="1"/>
+        <pt x="17" y="366" on="1"/>
+        <pt x="17" y="556" on="1"/>
+        <pt x="332" y="556" on="1"/>
+        <pt x="441" y="556" on="0"/>
+        <pt x="591" y="485" on="0"/>
+        <pt x="669" y="357" on="0"/>
+        <pt x="669" y="271" on="1"/>
+        <pt x="669" y="194" on="0"/>
+        <pt x="588" y="70" on="0"/>
+        <pt x="446" y="-3" on="0"/>
+      </contour>
+      <contour>
+        <pt x="256" y="282" on="1"/>
+        <pt x="256" y="235" on="0"/>
+        <pt x="317" y="187" on="0"/>
+        <pt x="360" y="187" on="1"/>
+        <pt x="409" y="187" on="0"/>
+        <pt x="459" y="239" on="0"/>
+        <pt x="459" y="282" on="1"/>
+        <pt x="459" y="318" on="0"/>
+        <pt x="403" y="366" on="0"/>
+        <pt x="332" y="366" on="1"/>
+        <pt x="288" y="366" on="1"/>
+        <pt x="273" y="345" on="0"/>
+        <pt x="256" y="305" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 40 values pushed */
+          4 1 1 1 2 95 0 2 2 14 77 0 3 3 0 97 5 1 0 0 18 0 78 1 0
+          28 26 22 20 11 9 8 7 0 17 1 17 6 7 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05E2" xMin="-6" yMin="-97" xMax="576" yMax="558">
+      <contour>
+        <pt x="16" y="-97" on="1"/>
+        <pt x="16" y="111" on="1"/>
+        <pt x="52" y="119" on="0"/>
+        <pt x="114" y="135" on="0"/>
+        <pt x="141" y="143" on="1"/>
+        <pt x="114" y="253" on="0"/>
+        <pt x="42" y="452" on="0"/>
+        <pt x="-6" y="556" on="1"/>
+        <pt x="204" y="556" on="1"/>
+        <pt x="234" y="480" on="0"/>
+        <pt x="286" y="316" on="0"/>
+        <pt x="308" y="231" on="1"/>
+        <pt x="321" y="243" on="0"/>
+        <pt x="329" y="257" on="1"/>
+        <pt x="344" y="281" on="0"/>
+        <pt x="360" y="324" on="0"/>
+        <pt x="366" y="383" on="0"/>
+        <pt x="367" y="479" on="0"/>
+        <pt x="366" y="556" on="1"/>
+        <pt x="576" y="558" on="1"/>
+        <pt x="576" y="480" on="0"/>
+        <pt x="576" y="365" on="0"/>
+        <pt x="566" y="275" on="0"/>
+        <pt x="537" y="194" on="0"/>
+        <pt x="508" y="149" on="1"/>
+        <pt x="455" y="65" on="0"/>
+        <pt x="219" y="-50" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 19 values pushed */
+          11 4 1 0 4 0 73 1 1 0 0 14 0 78 26 23 2 7 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05E3" xMin="12" yMin="-165" xMax="595" yMax="576">
+      <contour>
+        <pt x="385" y="-165" on="1"/>
+        <pt x="385" y="285" on="1"/>
+        <pt x="385" y="331" on="0"/>
+        <pt x="345" y="386" on="0"/>
+        <pt x="305" y="386" on="1"/>
+        <pt x="271" y="386" on="0"/>
+        <pt x="222" y="344" on="0"/>
+        <pt x="222" y="306" on="1"/>
+        <pt x="222" y="263" on="0"/>
+        <pt x="274" y="215" on="0"/>
+        <pt x="306" y="215" on="1"/>
+        <pt x="306" y="35" on="1"/>
+        <pt x="220" y="35" on="0"/>
+        <pt x="87" y="92" on="0"/>
+        <pt x="12" y="210" on="0"/>
+        <pt x="12" y="301" on="1"/>
+        <pt x="12" y="429" on="0"/>
+        <pt x="157" y="576" on="0"/>
+        <pt x="286" y="576" on="1"/>
+        <pt x="381" y="576" on="0"/>
+        <pt x="520" y="502" on="0"/>
+        <pt x="595" y="371" on="0"/>
+        <pt x="595" y="285" on="1"/>
+        <pt x="595" y="-165" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          25
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 25 values pushed */
+            0 1 0 2 4 1 2 105 0 0 0 3 97 0 3 3 14 77 5 1 4 4 16 4 78
+          ELSE[ ]	/* Else */
+            NPUSHB[ ]	/* 23 values pushed */
+            0 3 0 0 1 3 0 105 0 1 0 2 4 1 2 105 5 1 4 4 16 4 78
+          EIF[ ]	/* EndIf */
+          NPUSHB[ ]	/* 13 values pushed */
+          0 0 0 23 0 23 37 17 20 35 6 7 26
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05E4" xMin="8" yMin="-20" xMax="595" yMax="581">
+      <contour>
+        <pt x="287" y="-20" on="1"/>
+        <pt x="219" y="-20" on="0"/>
+        <pt x="102" y="10" on="0"/>
+        <pt x="43" y="38" on="1"/>
+        <pt x="43" y="230" on="1"/>
+        <pt x="131" y="196" on="0"/>
+        <pt x="233" y="170" on="0"/>
+        <pt x="266" y="170" on="1"/>
+        <pt x="322" y="170" on="0"/>
+        <pt x="395" y="225" on="0"/>
+        <pt x="395" y="277" on="1"/>
+        <pt x="395" y="322" on="0"/>
+        <pt x="359" y="371" on="0"/>
+        <pt x="307" y="391" on="0"/>
+        <pt x="283" y="391" on="1"/>
+        <pt x="256" y="391" on="0"/>
+        <pt x="208" y="380" on="0"/>
+        <pt x="208" y="367" on="1"/>
+        <pt x="208" y="359" on="0"/>
+        <pt x="227" y="349" on="0"/>
+        <pt x="246" y="345" on="0"/>
+        <pt x="247" y="345" on="1"/>
+        <pt x="247" y="204" on="1"/>
+        <pt x="204" y="204" on="0"/>
+        <pt x="120" y="224" on="0"/>
+        <pt x="50" y="269" on="0"/>
+        <pt x="8" y="343" on="0"/>
+        <pt x="8" y="397" on="1"/>
+        <pt x="8" y="444" on="0"/>
+        <pt x="61" y="514" on="0"/>
+        <pt x="146" y="559" on="0"/>
+        <pt x="247" y="581" on="0"/>
+        <pt x="295" y="581" on="1"/>
+        <pt x="381" y="581" on="0"/>
+        <pt x="516" y="509" on="0"/>
+        <pt x="595" y="377" on="0"/>
+        <pt x="595" y="287" on="1"/>
+        <pt x="595" y="229" on="0"/>
+        <pt x="550" y="119" on="0"/>
+        <pt x="468" y="32" on="0"/>
+        <pt x="355" y="-20" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 11 values pushed */
+          17 4 2 3 2 3 1 0 1 2 76
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          29
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 28 values pushed */
+            0 3 2 1 2 3 1 128 0 4 0 2 3 4 2 105 0 1 1 0 97 5 1 0 0
+            18 0 78
+          ELSE[ ]	/* Else */
+            NPUSHB[ ]	/* 33 values pushed */
+            0 3 2 1 2 3 1 128 0 4 0 2 3 4 2 105 0 1 0 0 1 89 0 1 1
+            0 97 5 1 0 1 0 81
+          EIF[ ]	/* EndIf */
+          NPUSHB[ ]	/* 17 values pushed */
+          1 0 33 31 23 22 15 13 8 6 0 40 1 40 6 7 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05E5" xMin="0" yMin="-152" xMax="562" yMax="556">
+      <contour>
+        <pt x="136" y="-152" on="1"/>
+        <pt x="136" y="152" on="1"/>
+        <pt x="136" y="212" on="0"/>
+        <pt x="104" y="328" on="0"/>
+        <pt x="44" y="465" on="0"/>
+        <pt x="0" y="556" on="1"/>
+        <pt x="210" y="556" on="1"/>
+        <pt x="240" y="502" on="0"/>
+        <pt x="295" y="393" on="0"/>
+        <pt x="315" y="335" on="1"/>
+        <pt x="344" y="382" on="0"/>
+        <pt x="352" y="493" on="0"/>
+        <pt x="352" y="556" on="1"/>
+        <pt x="562" y="556" on="1"/>
+        <pt x="562" y="417" on="0"/>
+        <pt x="463" y="204" on="0"/>
+        <pt x="346" y="135" on="1"/>
+        <pt x="346" y="-152" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 7 values pushed */
+          16 9 2 2 0 1 76
+          MPPEM[ ]	/* MeasurePixelPerEm */
+          PUSHB[ ]	/* 1 value pushed */
+          50
+          LT[ ]	/* LessThan */
+          IF[ ]	/* If */
+            NPUSHB[ ]	/* 13 values pushed */
+            1 1 0 0 14 77 3 1 2 2 16 2 78
+          ELSE[ ]	/* Else */
+            NPUSHB[ ]	/* 13 values pushed */
+            3 1 2 2 0 95 1 1 0 0 14 2 78
+          EIF[ ]	/* EndIf */
+          NPUSHB[ ]	/* 11 values pushed */
+          0 0 0 17 0 17 22 21 4 7 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05E6" xMin="8" yMin="0" xMax="578" yMax="556">
+      <contour>
+        <pt x="54" y="0" on="1"/>
+        <pt x="54" y="190" on="1"/>
+        <pt x="278" y="190" on="1"/>
+        <pt x="241" y="200" on="0"/>
+        <pt x="190" y="225" on="0"/>
+        <pt x="152" y="257" on="0"/>
+        <pt x="131" y="276" on="1"/>
+        <pt x="112" y="294" on="0"/>
+        <pt x="82" y="335" on="0"/>
+        <pt x="56" y="395" on="0"/>
+        <pt x="27" y="487" on="0"/>
+        <pt x="8" y="556" on="1"/>
+        <pt x="218" y="556" on="1"/>
+        <pt x="232" y="481" on="0"/>
+        <pt x="275" y="396" on="0"/>
+        <pt x="303" y="371" on="1"/>
+        <pt x="311" y="364" on="0"/>
+        <pt x="320" y="356" on="1"/>
+        <pt x="350" y="404" on="0"/>
+        <pt x="371" y="493" on="0"/>
+        <pt x="371" y="556" on="1"/>
+        <pt x="578" y="556" on="1"/>
+        <pt x="578" y="457" on="0"/>
+        <pt x="518" y="312" on="0"/>
+        <pt x="452" y="252" on="1"/>
+        <pt x="494" y="217" on="0"/>
+        <pt x="547" y="135" on="0"/>
+        <pt x="547" y="76" on="1"/>
+        <pt x="547" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 37 values pushed */
+          24 17 2 0 1 1 76 2 1 1 1 14 77 0 0 0 3 96 4 1 3 3 15 3 78
+          0 0 0 28 0 28 24 25 17 5 7 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05E7" xMin="18" yMin="-192" xMax="608" yMax="554">
+      <contour>
+        <pt x="283" y="0" on="1"/>
+        <pt x="283" y="188" on="1"/>
+        <pt x="343" y="188" on="0"/>
+        <pt x="398" y="242" on="0"/>
+        <pt x="398" y="279" on="1"/>
+        <pt x="398" y="323" on="0"/>
+        <pt x="350" y="364" on="0"/>
+        <pt x="311" y="364" on="1"/>
+        <pt x="18" y="364" on="1"/>
+        <pt x="18" y="554" on="1"/>
+        <pt x="311" y="554" on="1"/>
+        <pt x="400" y="554" on="0"/>
+        <pt x="534" y="486" on="0"/>
+        <pt x="608" y="360" on="0"/>
+        <pt x="608" y="272" on="1"/>
+        <pt x="608" y="192" on="0"/>
+        <pt x="533" y="69" on="0"/>
+        <pt x="388" y="0" on="0"/>
+      </contour>
+      <contour>
+        <pt x="18" y="-192" on="1"/>
+        <pt x="18" y="299" on="1"/>
+        <pt x="228" y="299" on="1"/>
+        <pt x="228" y="-192" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 50 values pushed */
+          0 4 7 1 5 4 5 99 0 1 1 2 95 0 2 2 14 77 0 0 0 3 97 6 1
+          3 3 15 3 78 18 18 0 0 18 21 18 21 20 19 0 17 0 17 33 36 17 8 7 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05E8" xMin="8" yMin="0" xMax="485" yMax="556">
+      <contour>
+        <pt x="275" y="0" on="1"/>
+        <pt x="275" y="236" on="1"/>
+        <pt x="275" y="291" on="0"/>
+        <pt x="222" y="346" on="0"/>
+        <pt x="162" y="346" on="1"/>
+        <pt x="8" y="346" on="1"/>
+        <pt x="8" y="556" on="1"/>
+        <pt x="183" y="556" on="1"/>
+        <pt x="331" y="556" on="0"/>
+        <pt x="485" y="400" on="0"/>
+        <pt x="485" y="257" on="1"/>
+        <pt x="485" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 28 values pushed */
+          0 0 0 1 95 0 1 1 14 77 3 1 2 2 15 2 78 0 0 0 11 0 11 33 35
+          4 7 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05E9" xMin="12" yMin="-11" xMax="759" yMax="556">
+      <contour>
+        <pt x="384" y="-11" on="1"/>
+        <pt x="270" y="-11" on="0"/>
+        <pt x="124" y="77" on="0"/>
+        <pt x="44" y="232" on="0"/>
+        <pt x="12" y="438" on="0"/>
+        <pt x="12" y="556" on="1"/>
+        <pt x="222" y="556" on="1"/>
+        <pt x="222" y="504" on="0"/>
+        <pt x="226" y="402" on="0"/>
+        <pt x="233" y="357" on="1"/>
+        <pt x="245" y="362" on="0"/>
+        <pt x="262" y="376" on="0"/>
+        <pt x="267" y="384" on="1"/>
+        <pt x="275" y="397" on="0"/>
+        <pt x="284" y="471" on="0"/>
+        <pt x="284" y="556" on="1"/>
+        <pt x="489" y="556" on="1"/>
+        <pt x="489" y="476" on="0"/>
+        <pt x="470" y="349" on="0"/>
+        <pt x="446" y="309" on="1"/>
+        <pt x="424" y="273" on="0"/>
+        <pt x="346" y="221" on="0"/>
+        <pt x="290" y="209" on="1"/>
+        <pt x="320" y="179" on="0"/>
+        <pt x="364" y="179" on="1"/>
+        <pt x="442" y="179" on="0"/>
+        <pt x="521" y="262" on="0"/>
+        <pt x="549" y="429" on="0"/>
+        <pt x="549" y="556" on="1"/>
+        <pt x="759" y="556" on="1"/>
+        <pt x="759" y="265" on="0"/>
+        <pt x="582" y="-11" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 43 values pushed */
+          22 9 2 3 1 1 76 4 2 2 1 1 14 77 0 3 3 0 98 5 1 0 0 18 0
+          78 1 0 29 28 25 23 16 15 6 5 0 31 1 31 6 7 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05E9.forDagesh" xMin="12" yMin="-11" xMax="759" yMax="556">
+      <contour>
+        <pt x="384" y="-11" on="1"/>
+        <pt x="270" y="-11" on="0"/>
+        <pt x="124" y="77" on="0"/>
+        <pt x="44" y="232" on="0"/>
+        <pt x="12" y="438" on="0"/>
+        <pt x="12" y="556" on="1"/>
+        <pt x="222" y="556" on="1"/>
+        <pt x="222" y="504" on="0"/>
+        <pt x="226" y="402" on="0"/>
+        <pt x="233" y="357" on="1"/>
+        <pt x="245" y="362" on="0"/>
+        <pt x="262" y="376" on="0"/>
+        <pt x="267" y="384" on="1"/>
+        <pt x="275" y="397" on="0"/>
+        <pt x="284" y="471" on="0"/>
+        <pt x="284" y="556" on="1"/>
+        <pt x="489" y="556" on="1"/>
+        <pt x="489" y="503" on="0"/>
+        <pt x="474" y="434" on="0"/>
+        <pt x="452" y="393" on="0"/>
+        <pt x="439" y="379" on="1"/>
+        <pt x="418" y="357" on="0"/>
+        <pt x="318" y="310" on="0"/>
+        <pt x="243" y="302" on="1"/>
+        <pt x="258" y="247" on="0"/>
+        <pt x="315" y="179" on="0"/>
+        <pt x="364" y="179" on="1"/>
+        <pt x="442" y="179" on="0"/>
+        <pt x="521" y="262" on="0"/>
+        <pt x="549" y="429" on="0"/>
+        <pt x="549" y="556" on="1"/>
+        <pt x="759" y="556" on="1"/>
+        <pt x="759" y="265" on="0"/>
+        <pt x="582" y="-11" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 43 values pushed */
+          23 9 2 3 1 1 76 4 2 2 1 1 14 77 0 3 3 0 98 5 1 0 0 18 0
+          78 1 0 31 30 27 25 16 15 6 5 0 33 1 33 6 7 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05EA" xMin="14" yMin="0" xMax="649" yMax="556">
+      <contour>
+        <pt x="14" y="0" on="1"/>
+        <pt x="14" y="200" on="1"/>
+        <pt x="68" y="200" on="1"/>
+        <pt x="67" y="225" on="0"/>
+        <pt x="66" y="273" on="0"/>
+        <pt x="68" y="297" on="1"/>
+        <pt x="70" y="315" on="0"/>
+        <pt x="74" y="350" on="0"/>
+        <pt x="77" y="366" on="1"/>
+        <pt x="23" y="366" on="1"/>
+        <pt x="23" y="556" on="1"/>
+        <pt x="341" y="556" on="1"/>
+        <pt x="649" y="556" on="0"/>
+        <pt x="649" y="245" on="1"/>
+        <pt x="649" y="0" on="1"/>
+        <pt x="439" y="0" on="1"/>
+        <pt x="439" y="245" on="1"/>
+        <pt x="439" y="296" on="0"/>
+        <pt x="425" y="348" on="0"/>
+        <pt x="383" y="366" on="0"/>
+        <pt x="341" y="366" on="1"/>
+        <pt x="287" y="366" on="1"/>
+        <pt x="284" y="348" on="0"/>
+        <pt x="279" y="306" on="0"/>
+        <pt x="278" y="286" on="1"/>
+        <pt x="276" y="240" on="0"/>
+        <pt x="287" y="108" on="0"/>
+        <pt x="299" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 38 values pushed */
+          4 1 1 1 2 95 0 2 2 14 77 0 0 0 3 95 6 5 2 3 3 15 3 78 0
+          0 0 27 0 27 36 18 33 22 17 7 7 27
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05F3" xMin="18" yMin="304" xMax="273" yMax="630">
+      <contour>
+        <pt x="18" y="304" on="1"/>
+        <pt x="65" y="630" on="1"/>
+        <pt x="273" y="630" on="1"/>
+        <pt x="190" y="304" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 27 values pushed */
+          0 0 1 1 0 87 0 0 0 1 95 2 1 1 0 1 79 0 0 0 3 0 3 17 3
+          7 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni05F4" xMin="18" yMin="304" xMax="510" yMax="630">
+      <contour>
+        <pt x="255" y="304" on="1"/>
+        <pt x="302" y="630" on="1"/>
+        <pt x="510" y="630" on="1"/>
+        <pt x="427" y="304" on="1"/>
+      </contour>
+      <contour>
+        <pt x="18" y="304" on="1"/>
+        <pt x="65" y="630" on="1"/>
+        <pt x="273" y="630" on="1"/>
+        <pt x="190" y="304" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 39 values pushed */
+          2 1 0 1 1 0 87 2 1 0 0 1 95 5 3 4 3 1 0 1 79 4 4 0 0
+          4 7 4 7 6 5 0 3 0 3 17 6 7 23
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni20AA" xMin="19" yMin="0" xMax="846" yMax="556">
+      <contour>
+        <pt x="252" y="0" on="1"/>
+        <pt x="252" y="301" on="1"/>
+        <pt x="402" y="301" on="1"/>
+        <pt x="402" y="210" on="1"/>
+        <pt x="570" y="210" on="1"/>
+        <pt x="612" y="210" on="0"/>
+        <pt x="656" y="257" on="0"/>
+        <pt x="656" y="309" on="1"/>
+        <pt x="656" y="556" on="1"/>
+        <pt x="846" y="556" on="1"/>
+        <pt x="846" y="287" on="1"/>
+        <pt x="846" y="191" on="0"/>
+        <pt x="781" y="63" on="0"/>
+        <pt x="671" y="0" on="0"/>
+        <pt x="602" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="19" y="0" on="1"/>
+        <pt x="19" y="556" on="1"/>
+        <pt x="392" y="556" on="1"/>
+        <pt x="498" y="556" on="0"/>
+        <pt x="607" y="443" on="0"/>
+        <pt x="607" y="330" on="1"/>
+        <pt x="607" y="254" on="1"/>
+        <pt x="457" y="254" on="1"/>
+        <pt x="457" y="277" on="1"/>
+        <pt x="457" y="312" on="0"/>
+        <pt x="420" y="346" on="0"/>
+        <pt x="378" y="346" on="1"/>
+        <pt x="209" y="346" on="1"/>
+        <pt x="209" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 67 values pushed */
+          0 0 6 5 6 0 5 128 0 5 1 6 5 1 126 4 1 2 0 6 0 2 6 103 0
+          1 3 3 1 87 0 1 1 3 95 9 7 8 3 3 1 3 79 15 15 0 0 15 28 15
+          28 27 25 22 21 18 16 0 14 0 13 19 33 17 10 6 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni2196" xMin="24" yMin="11" xMax="570" yMax="557">
+      <contour>
+        <pt x="24" y="103" on="1"/>
+        <pt x="24" y="557" on="1"/>
+        <pt x="478" y="557" on="1"/>
+        <pt x="478" y="355" on="1"/>
+        <pt x="354" y="361" on="1"/>
+        <pt x="570" y="145" on="1"/>
+        <pt x="436" y="11" on="1"/>
+        <pt x="215" y="232" on="1"/>
+        <pt x="226" y="103" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 44 values pushed */
+          7 5 2 2 1 1 76 6 1 2 73 3 1 2 1 2 134 0 0 1 1 0 87 0 0
+          0 1 95 0 1 0 1 79 0 0 0 8 0 8 17 17 4 6 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni2197" xMin="4" yMin="11" xMax="550" yMax="557">
+      <contour>
+        <pt x="138" y="11" on="1"/>
+        <pt x="4" y="145" on="1"/>
+        <pt x="220" y="361" on="1"/>
+        <pt x="96" y="355" on="1"/>
+        <pt x="96" y="557" on="1"/>
+        <pt x="550" y="557" on="1"/>
+        <pt x="550" y="103" on="1"/>
+        <pt x="348" y="103" on="1"/>
+        <pt x="359" y="232" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 34 values pushed */
+          8 1 2 2 0 1 76 0 2 0 2 134 0 1 0 0 1 87 0 1 1 0 95 0 0
+          1 0 79 17 17 18 3 6 25
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni2198" xMin="4" yMin="0" xMax="550" yMax="546">
+      <contour>
+        <pt x="96" y="202" on="1"/>
+        <pt x="225" y="191" on="1"/>
+        <pt x="4" y="412" on="1"/>
+        <pt x="138" y="546" on="1"/>
+        <pt x="354" y="330" on="1"/>
+        <pt x="348" y="454" on="1"/>
+        <pt x="550" y="454" on="1"/>
+        <pt x="550" y="0" on="1"/>
+        <pt x="96" y="0" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 27 values pushed */
+          4 2 1 0 4 1 0 1 76 3 1 0 74 0 0 1 0 133 0 1 1 118 17 21 2
+          6 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uni2199" xMin="24" yMin="0" xMax="570" yMax="546">
+      <contour>
+        <pt x="478" y="202" on="1"/>
+        <pt x="478" y="0" on="1"/>
+        <pt x="24" y="0" on="1"/>
+        <pt x="24" y="454" on="1"/>
+        <pt x="226" y="454" on="1"/>
+        <pt x="220" y="330" on="1"/>
+        <pt x="436" y="546" on="1"/>
+        <pt x="570" y="412" on="1"/>
+        <pt x="349" y="191" on="1"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 27 values pushed */
+          8 7 5 0 4 0 1 1 76 6 1 1 74 0 1 0 1 133 0 0 0 118 17 17 2
+          6 24
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB2A" xMin="12" yMin="-11" xMax="759" yMax="729">
+      <component glyphName="uni05E9" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05C1" x="735" y="0" flags="0x4"/>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB2B" xMin="12" yMin="-11" xMax="759" yMax="729">
+      <component glyphName="uni05E9" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05C2" x="5" y="0" flags="0x4"/>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB2C" xMin="12" yMin="-11" xMax="759" yMax="729">
+      <component glyphName="uni05E9.forDagesh" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="363" y="54" flags="0x4"/>
+      <component glyphName="uni05C1" x="735" y="0" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          54
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB2D" xMin="12" yMin="-11" xMax="759" yMax="729">
+      <component glyphName="uni05E9.forDagesh" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="363" y="54" flags="0x4"/>
+      <component glyphName="uni05C2" x="5" y="0" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          54
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB2E" xMin="-2" yMin="-171" xMax="602" yMax="556">
+      <component glyphName="uni05D0" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05B7" x="305" y="0" flags="0x4"/>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB2F" xMin="-2" yMin="-283" xMax="602" yMax="556">
+      <component glyphName="uni05D0" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05B8" x="305" y="0" flags="0x4"/>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB30" xMin="-2" yMin="0" xMax="640" yMax="556">
+      <component glyphName="uni05D0.forDagesh" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="254" y="-137" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHW[ ]	/* 1 value pushed */
+          -137
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB31" xMin="18" yMin="0" xMax="519" yMax="556">
+      <component glyphName="uni05D1" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="86" y="64" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          64
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB32" xMin="-2" yMin="-3" xMax="390" yMax="556">
+      <component glyphName="uni05D2" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="17" y="61" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          61
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB33" xMin="12" yMin="4" xMax="529" yMax="556">
+      <component glyphName="uni05D3" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="80" y="4" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          4
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB34" xMin="18" yMin="0" xMax="601" yMax="556">
+      <component glyphName="uni05D4" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="264" y="14" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          2 1
+          PUSHB[ ]	/* 1 value pushed */
+          14
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB35" xMin="-44" yMin="0" xMax="312" yMax="556">
+      <component glyphName="uni05D5" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="-25" y="4" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          4
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB36" xMin="-70" yMin="0" xMax="347" yMax="556">
+      <component glyphName="uni05D6" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="-51" y="44" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          44
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB38" xMin="17" yMin="-20" xMax="662" yMax="563">
+      <component glyphName="uni05D8" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="291" y="59" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          59
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB39" xMin="-39" yMin="117" xMax="333" yMax="556">
+      <component glyphName="uni05D9" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="-20" y="59" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          59
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB3A" xMin="12" yMin="-152" xMax="537" yMax="556">
+      <component glyphName="uni05DA" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="88" y="30" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          30
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB3B" xMin="18" yMin="0" xMax="501" yMax="556">
+      <component glyphName="uni05DB" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="98" y="64" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          64
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB3C" xMin="18" yMin="0" xMax="524" yMax="679">
+      <component glyphName="uni05DC" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="112" y="61" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          61
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB3E" xMin="15" yMin="0" xMax="679" yMax="566">
+      <component glyphName="uni05DE" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="332" y="58" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          58
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB40" xMin="-11" yMin="0" xMax="361" yMax="556">
+      <component glyphName="uni05E0" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="8" y="64" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          64
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB41" xMin="17" yMin="-3" xMax="669" yMax="556">
+      <component glyphName="uni05E1" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="310" y="64" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          2 1
+          PUSHB[ ]	/* 1 value pushed */
+          64
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB43" xMin="12" yMin="-165" xMax="595" yMax="576">
+      <component glyphName="uni05E3" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="257" y="88" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          88
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB44" xMin="8" yMin="-20" xMax="595" yMax="581">
+      <component glyphName="uni05E4" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="272" y="65" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          65
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB46" xMin="-40" yMin="0" xMax="578" yMax="556">
+      <component glyphName="uni05E6" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="-21" y="59" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          59
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB47" xMin="18" yMin="-192" xMax="608" yMax="554">
+      <component glyphName="uni05E7" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="260" y="59" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          2 1
+          PUSHB[ ]	/* 1 value pushed */
+          59
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB48" xMin="8" yMin="0" xMax="485" yMax="556">
+      <component glyphName="uni05E8" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="98" y="6" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          6
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB49" xMin="12" yMin="-11" xMax="759" yMax="556">
+      <component glyphName="uni05E9.forDagesh" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="363" y="54" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          54
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB4A" xMin="14" yMin="0" xMax="649" yMax="556">
+      <component glyphName="uni05EA" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05BC" x="308" y="24" flags="0x4"/>
+      <instructions>
+        <assembly>
+          PUSHB[ ]	/* 2 values pushed */
+          1 1
+          PUSHB[ ]	/* 1 value pushed */
+          24
+          PUSHB[ ]	/* 1 value pushed */
+          53
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniFB4B" xMin="18" yMin="0" xMax="312" yMax="729">
+      <component glyphName="uni05D5" x="0" y="0" flags="0x204"/>
+      <component glyphName="uni05B9" x="194" y="0" flags="0x4"/>
+    </TTGlyph>
+
+    <TTGlyph name="zero" xMin="11" yMin="-30" xMax="549" yMax="628">
+      <contour>
+        <pt x="280" y="-30" on="1"/>
+        <pt x="220" y="-30" on="0"/>
+        <pt x="121" y="23" on="0"/>
+        <pt x="50" y="116" on="0"/>
+        <pt x="11" y="236" on="0"/>
+        <pt x="11" y="303" on="1"/>
+        <pt x="11" y="368" on="0"/>
+        <pt x="50" y="484" on="0"/>
+        <pt x="121" y="576" on="0"/>
+        <pt x="220" y="628" on="0"/>
+        <pt x="280" y="628" on="1"/>
+        <pt x="340" y="628" on="0"/>
+        <pt x="439" y="576" on="0"/>
+        <pt x="510" y="484" on="0"/>
+        <pt x="549" y="368" on="0"/>
+        <pt x="549" y="303" on="1"/>
+        <pt x="549" y="236" on="0"/>
+        <pt x="510" y="116" on="0"/>
+        <pt x="439" y="23" on="0"/>
+        <pt x="340" y="-30" on="0"/>
+      </contour>
+      <contour>
+        <pt x="280" y="180" on="1"/>
+        <pt x="317" y="180" on="0"/>
+        <pt x="359" y="246" on="0"/>
+        <pt x="359" y="303" on="1"/>
+        <pt x="359" y="356" on="0"/>
+        <pt x="317" y="418" on="0"/>
+        <pt x="280" y="418" on="1"/>
+        <pt x="243" y="418" on="0"/>
+        <pt x="201" y="356" on="0"/>
+        <pt x="201" y="303" on="1"/>
+        <pt x="201" y="246" on="0"/>
+        <pt x="243" y="180" on="0"/>
+      </contour>
+      <instructions>
+        <assembly>
+          NPUSHB[ ]	/* 46 values pushed */
+          0 1 0 3 2 1 3 105 5 1 2 0 0 2 89 5 1 2 2 0 97 4 1 0 2
+          0 81 21 20 1 0 27 25 20 31 21 31 11 9 0 19 1 19 6 6 22
+          CALL[ ]	/* CallFunction */
+        </assembly>
+      </instructions>
+    </TTGlyph>
+
+  </glyf>
+
+</ttFont>

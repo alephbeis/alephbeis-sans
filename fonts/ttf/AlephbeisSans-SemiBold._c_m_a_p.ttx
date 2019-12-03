@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.1">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="0" platEncID="3" language="0">
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="dollar"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xa9" name="copyright"/><!-- COPYRIGHT SIGN -->
+      <map code="0xae" name="registered"/><!-- REGISTERED SIGN -->
+      <map code="0xb0" name="degree"/><!-- DEGREE SIGN -->
+      <map code="0xb7" name="periodcentered"/><!-- MIDDLE DOT -->
+      <map code="0xd7" name="multiply"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xf7" name="divide"/><!-- DIVISION SIGN -->
+      <map code="0x5b0" name="uni05B0"/><!-- HEBREW POINT SHEVA -->
+      <map code="0x5b1" name="uni05B1"/><!-- HEBREW POINT HATAF SEGOL -->
+      <map code="0x5b2" name="uni05B2"/><!-- HEBREW POINT HATAF PATAH -->
+      <map code="0x5b3" name="uni05B3"/><!-- HEBREW POINT HATAF QAMATS -->
+      <map code="0x5b4" name="uni05B4"/><!-- HEBREW POINT HIRIQ -->
+      <map code="0x5b5" name="uni05B5"/><!-- HEBREW POINT TSERE -->
+      <map code="0x5b6" name="uni05B6"/><!-- HEBREW POINT SEGOL -->
+      <map code="0x5b7" name="uni05B7"/><!-- HEBREW POINT PATAH -->
+      <map code="0x5b8" name="uni05B8"/><!-- HEBREW POINT QAMATS -->
+      <map code="0x5b9" name="uni05B9"/><!-- HEBREW POINT HOLAM -->
+      <map code="0x5ba" name="uni05BA"/><!-- HEBREW POINT HOLAM HASER FOR VAV -->
+      <map code="0x5bb" name="uni05BB"/><!-- HEBREW POINT QUBUTS -->
+      <map code="0x5bc" name="uni05BC"/><!-- HEBREW POINT DAGESH OR MAPIQ -->
+      <map code="0x5be" name="uni05BE"/><!-- HEBREW PUNCTUATION MAQAF -->
+      <map code="0x5bf" name="uni05BF"/><!-- HEBREW POINT RAFE -->
+      <map code="0x5c1" name="uni05C1"/><!-- HEBREW POINT SHIN DOT -->
+      <map code="0x5c2" name="uni05C2"/><!-- HEBREW POINT SIN DOT -->
+      <map code="0x5d0" name="uni05D0"/><!-- HEBREW LETTER ALEF -->
+      <map code="0x5d1" name="uni05D1"/><!-- HEBREW LETTER BET -->
+      <map code="0x5d2" name="uni05D2"/><!-- HEBREW LETTER GIMEL -->
+      <map code="0x5d3" name="uni05D3"/><!-- HEBREW LETTER DALET -->
+      <map code="0x5d4" name="uni05D4"/><!-- HEBREW LETTER HE -->
+      <map code="0x5d5" name="uni05D5"/><!-- HEBREW LETTER VAV -->
+      <map code="0x5d6" name="uni05D6"/><!-- HEBREW LETTER ZAYIN -->
+      <map code="0x5d7" name="uni05D7"/><!-- HEBREW LETTER HET -->
+      <map code="0x5d8" name="uni05D8"/><!-- HEBREW LETTER TET -->
+      <map code="0x5d9" name="uni05D9"/><!-- HEBREW LETTER YOD -->
+      <map code="0x5da" name="uni05DA"/><!-- HEBREW LETTER FINAL KAF -->
+      <map code="0x5db" name="uni05DB"/><!-- HEBREW LETTER KAF -->
+      <map code="0x5dc" name="uni05DC"/><!-- HEBREW LETTER LAMED -->
+      <map code="0x5dd" name="uni05DD"/><!-- HEBREW LETTER FINAL MEM -->
+      <map code="0x5de" name="uni05DE"/><!-- HEBREW LETTER MEM -->
+      <map code="0x5df" name="uni05DF"/><!-- HEBREW LETTER FINAL NUN -->
+      <map code="0x5e0" name="uni05E0"/><!-- HEBREW LETTER NUN -->
+      <map code="0x5e1" name="uni05E1"/><!-- HEBREW LETTER SAMEKH -->
+      <map code="0x5e2" name="uni05E2"/><!-- HEBREW LETTER AYIN -->
+      <map code="0x5e3" name="uni05E3"/><!-- HEBREW LETTER FINAL PE -->
+      <map code="0x5e4" name="uni05E4"/><!-- HEBREW LETTER PE -->
+      <map code="0x5e5" name="uni05E5"/><!-- HEBREW LETTER FINAL TSADI -->
+      <map code="0x5e6" name="uni05E6"/><!-- HEBREW LETTER TSADI -->
+      <map code="0x5e7" name="uni05E7"/><!-- HEBREW LETTER QOF -->
+      <map code="0x5e8" name="uni05E8"/><!-- HEBREW LETTER RESH -->
+      <map code="0x5e9" name="uni05E9"/><!-- HEBREW LETTER SHIN -->
+      <map code="0x5ea" name="uni05EA"/><!-- HEBREW LETTER TAV -->
+      <map code="0x5f3" name="uni05F3"/><!-- HEBREW PUNCTUATION GERESH -->
+      <map code="0x5f4" name="uni05F4"/><!-- HEBREW PUNCTUATION GERSHAYIM -->
+      <map code="0x2013" name="endash"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash"/><!-- EM DASH -->
+      <map code="0x2022" name="bullet"/><!-- BULLET -->
+      <map code="0x20aa" name="uni20AA"/><!-- NEW SHEQEL SIGN -->
+      <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
+      <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
+      <map code="0x2190" name="arrowleft"/><!-- LEFTWARDS ARROW -->
+      <map code="0x2191" name="arrowup"/><!-- UPWARDS ARROW -->
+      <map code="0x2192" name="arrowright"/><!-- RIGHTWARDS ARROW -->
+      <map code="0x2193" name="arrowdown"/><!-- DOWNWARDS ARROW -->
+      <map code="0x2194" name="arrowboth"/><!-- LEFT RIGHT ARROW -->
+      <map code="0x2195" name="arrowupdn"/><!-- UP DOWN ARROW -->
+      <map code="0x2196" name="uni2196"/><!-- NORTH WEST ARROW -->
+      <map code="0x2197" name="uni2197"/><!-- NORTH EAST ARROW -->
+      <map code="0x2198" name="uni2198"/><!-- SOUTH EAST ARROW -->
+      <map code="0x2199" name="uni2199"/><!-- SOUTH WEST ARROW -->
+      <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
+      <map code="0x2260" name="notequal"/><!-- NOT EQUAL TO -->
+      <map code="0xfb2a" name="uniFB2A"/><!-- HEBREW LETTER SHIN WITH SHIN DOT -->
+      <map code="0xfb2b" name="uniFB2B"/><!-- HEBREW LETTER SHIN WITH SIN DOT -->
+      <map code="0xfb2c" name="uniFB2C"/><!-- HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT -->
+      <map code="0xfb2d" name="uniFB2D"/><!-- HEBREW LETTER SHIN WITH DAGESH AND SIN DOT -->
+      <map code="0xfb2e" name="uniFB2E"/><!-- HEBREW LETTER ALEF WITH PATAH -->
+      <map code="0xfb2f" name="uniFB2F"/><!-- HEBREW LETTER ALEF WITH QAMATS -->
+      <map code="0xfb30" name="uniFB30"/><!-- HEBREW LETTER ALEF WITH MAPIQ -->
+      <map code="0xfb31" name="uniFB31"/><!-- HEBREW LETTER BET WITH DAGESH -->
+      <map code="0xfb32" name="uniFB32"/><!-- HEBREW LETTER GIMEL WITH DAGESH -->
+      <map code="0xfb33" name="uniFB33"/><!-- HEBREW LETTER DALET WITH DAGESH -->
+      <map code="0xfb34" name="uniFB34"/><!-- HEBREW LETTER HE WITH MAPIQ -->
+      <map code="0xfb35" name="uniFB35"/><!-- HEBREW LETTER VAV WITH DAGESH -->
+      <map code="0xfb36" name="uniFB36"/><!-- HEBREW LETTER ZAYIN WITH DAGESH -->
+      <map code="0xfb38" name="uniFB38"/><!-- HEBREW LETTER TET WITH DAGESH -->
+      <map code="0xfb39" name="uniFB39"/><!-- HEBREW LETTER YOD WITH DAGESH -->
+      <map code="0xfb3a" name="uniFB3A"/><!-- HEBREW LETTER FINAL KAF WITH DAGESH -->
+      <map code="0xfb3b" name="uniFB3B"/><!-- HEBREW LETTER KAF WITH DAGESH -->
+      <map code="0xfb3c" name="uniFB3C"/><!-- HEBREW LETTER LAMED WITH DAGESH -->
+      <map code="0xfb3e" name="uniFB3E"/><!-- HEBREW LETTER MEM WITH DAGESH -->
+      <map code="0xfb40" name="uniFB40"/><!-- HEBREW LETTER NUN WITH DAGESH -->
+      <map code="0xfb41" name="uniFB41"/><!-- HEBREW LETTER SAMEKH WITH DAGESH -->
+      <map code="0xfb43" name="uniFB43"/><!-- HEBREW LETTER FINAL PE WITH DAGESH -->
+      <map code="0xfb44" name="uniFB44"/><!-- HEBREW LETTER PE WITH DAGESH -->
+      <map code="0xfb46" name="uniFB46"/><!-- HEBREW LETTER TSADI WITH DAGESH -->
+      <map code="0xfb47" name="uniFB47"/><!-- HEBREW LETTER QOF WITH DAGESH -->
+      <map code="0xfb48" name="uniFB48"/><!-- HEBREW LETTER RESH WITH DAGESH -->
+      <map code="0xfb49" name="uniFB49"/><!-- HEBREW LETTER SHIN WITH DAGESH -->
+      <map code="0xfb4a" name="uniFB4A"/><!-- HEBREW LETTER TAV WITH DAGESH -->
+      <map code="0xfb4b" name="uniFB4B"/><!-- HEBREW LETTER VAV WITH HOLAM -->
+    </cmap_format_4>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="dollar"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xa9" name="copyright"/><!-- COPYRIGHT SIGN -->
+      <map code="0xae" name="registered"/><!-- REGISTERED SIGN -->
+      <map code="0xb0" name="degree"/><!-- DEGREE SIGN -->
+      <map code="0xb7" name="periodcentered"/><!-- MIDDLE DOT -->
+      <map code="0xd7" name="multiply"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xf7" name="divide"/><!-- DIVISION SIGN -->
+      <map code="0x5b0" name="uni05B0"/><!-- HEBREW POINT SHEVA -->
+      <map code="0x5b1" name="uni05B1"/><!-- HEBREW POINT HATAF SEGOL -->
+      <map code="0x5b2" name="uni05B2"/><!-- HEBREW POINT HATAF PATAH -->
+      <map code="0x5b3" name="uni05B3"/><!-- HEBREW POINT HATAF QAMATS -->
+      <map code="0x5b4" name="uni05B4"/><!-- HEBREW POINT HIRIQ -->
+      <map code="0x5b5" name="uni05B5"/><!-- HEBREW POINT TSERE -->
+      <map code="0x5b6" name="uni05B6"/><!-- HEBREW POINT SEGOL -->
+      <map code="0x5b7" name="uni05B7"/><!-- HEBREW POINT PATAH -->
+      <map code="0x5b8" name="uni05B8"/><!-- HEBREW POINT QAMATS -->
+      <map code="0x5b9" name="uni05B9"/><!-- HEBREW POINT HOLAM -->
+      <map code="0x5ba" name="uni05BA"/><!-- HEBREW POINT HOLAM HASER FOR VAV -->
+      <map code="0x5bb" name="uni05BB"/><!-- HEBREW POINT QUBUTS -->
+      <map code="0x5bc" name="uni05BC"/><!-- HEBREW POINT DAGESH OR MAPIQ -->
+      <map code="0x5be" name="uni05BE"/><!-- HEBREW PUNCTUATION MAQAF -->
+      <map code="0x5bf" name="uni05BF"/><!-- HEBREW POINT RAFE -->
+      <map code="0x5c1" name="uni05C1"/><!-- HEBREW POINT SHIN DOT -->
+      <map code="0x5c2" name="uni05C2"/><!-- HEBREW POINT SIN DOT -->
+      <map code="0x5d0" name="uni05D0"/><!-- HEBREW LETTER ALEF -->
+      <map code="0x5d1" name="uni05D1"/><!-- HEBREW LETTER BET -->
+      <map code="0x5d2" name="uni05D2"/><!-- HEBREW LETTER GIMEL -->
+      <map code="0x5d3" name="uni05D3"/><!-- HEBREW LETTER DALET -->
+      <map code="0x5d4" name="uni05D4"/><!-- HEBREW LETTER HE -->
+      <map code="0x5d5" name="uni05D5"/><!-- HEBREW LETTER VAV -->
+      <map code="0x5d6" name="uni05D6"/><!-- HEBREW LETTER ZAYIN -->
+      <map code="0x5d7" name="uni05D7"/><!-- HEBREW LETTER HET -->
+      <map code="0x5d8" name="uni05D8"/><!-- HEBREW LETTER TET -->
+      <map code="0x5d9" name="uni05D9"/><!-- HEBREW LETTER YOD -->
+      <map code="0x5da" name="uni05DA"/><!-- HEBREW LETTER FINAL KAF -->
+      <map code="0x5db" name="uni05DB"/><!-- HEBREW LETTER KAF -->
+      <map code="0x5dc" name="uni05DC"/><!-- HEBREW LETTER LAMED -->
+      <map code="0x5dd" name="uni05DD"/><!-- HEBREW LETTER FINAL MEM -->
+      <map code="0x5de" name="uni05DE"/><!-- HEBREW LETTER MEM -->
+      <map code="0x5df" name="uni05DF"/><!-- HEBREW LETTER FINAL NUN -->
+      <map code="0x5e0" name="uni05E0"/><!-- HEBREW LETTER NUN -->
+      <map code="0x5e1" name="uni05E1"/><!-- HEBREW LETTER SAMEKH -->
+      <map code="0x5e2" name="uni05E2"/><!-- HEBREW LETTER AYIN -->
+      <map code="0x5e3" name="uni05E3"/><!-- HEBREW LETTER FINAL PE -->
+      <map code="0x5e4" name="uni05E4"/><!-- HEBREW LETTER PE -->
+      <map code="0x5e5" name="uni05E5"/><!-- HEBREW LETTER FINAL TSADI -->
+      <map code="0x5e6" name="uni05E6"/><!-- HEBREW LETTER TSADI -->
+      <map code="0x5e7" name="uni05E7"/><!-- HEBREW LETTER QOF -->
+      <map code="0x5e8" name="uni05E8"/><!-- HEBREW LETTER RESH -->
+      <map code="0x5e9" name="uni05E9"/><!-- HEBREW LETTER SHIN -->
+      <map code="0x5ea" name="uni05EA"/><!-- HEBREW LETTER TAV -->
+      <map code="0x5f3" name="uni05F3"/><!-- HEBREW PUNCTUATION GERESH -->
+      <map code="0x5f4" name="uni05F4"/><!-- HEBREW PUNCTUATION GERSHAYIM -->
+      <map code="0x2013" name="endash"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash"/><!-- EM DASH -->
+      <map code="0x2022" name="bullet"/><!-- BULLET -->
+      <map code="0x20aa" name="uni20AA"/><!-- NEW SHEQEL SIGN -->
+      <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
+      <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
+      <map code="0x2190" name="arrowleft"/><!-- LEFTWARDS ARROW -->
+      <map code="0x2191" name="arrowup"/><!-- UPWARDS ARROW -->
+      <map code="0x2192" name="arrowright"/><!-- RIGHTWARDS ARROW -->
+      <map code="0x2193" name="arrowdown"/><!-- DOWNWARDS ARROW -->
+      <map code="0x2194" name="arrowboth"/><!-- LEFT RIGHT ARROW -->
+      <map code="0x2195" name="arrowupdn"/><!-- UP DOWN ARROW -->
+      <map code="0x2196" name="uni2196"/><!-- NORTH WEST ARROW -->
+      <map code="0x2197" name="uni2197"/><!-- NORTH EAST ARROW -->
+      <map code="0x2198" name="uni2198"/><!-- SOUTH EAST ARROW -->
+      <map code="0x2199" name="uni2199"/><!-- SOUTH WEST ARROW -->
+      <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
+      <map code="0x2260" name="notequal"/><!-- NOT EQUAL TO -->
+      <map code="0xfb2a" name="uniFB2A"/><!-- HEBREW LETTER SHIN WITH SHIN DOT -->
+      <map code="0xfb2b" name="uniFB2B"/><!-- HEBREW LETTER SHIN WITH SIN DOT -->
+      <map code="0xfb2c" name="uniFB2C"/><!-- HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT -->
+      <map code="0xfb2d" name="uniFB2D"/><!-- HEBREW LETTER SHIN WITH DAGESH AND SIN DOT -->
+      <map code="0xfb2e" name="uniFB2E"/><!-- HEBREW LETTER ALEF WITH PATAH -->
+      <map code="0xfb2f" name="uniFB2F"/><!-- HEBREW LETTER ALEF WITH QAMATS -->
+      <map code="0xfb30" name="uniFB30"/><!-- HEBREW LETTER ALEF WITH MAPIQ -->
+      <map code="0xfb31" name="uniFB31"/><!-- HEBREW LETTER BET WITH DAGESH -->
+      <map code="0xfb32" name="uniFB32"/><!-- HEBREW LETTER GIMEL WITH DAGESH -->
+      <map code="0xfb33" name="uniFB33"/><!-- HEBREW LETTER DALET WITH DAGESH -->
+      <map code="0xfb34" name="uniFB34"/><!-- HEBREW LETTER HE WITH MAPIQ -->
+      <map code="0xfb35" name="uniFB35"/><!-- HEBREW LETTER VAV WITH DAGESH -->
+      <map code="0xfb36" name="uniFB36"/><!-- HEBREW LETTER ZAYIN WITH DAGESH -->
+      <map code="0xfb38" name="uniFB38"/><!-- HEBREW LETTER TET WITH DAGESH -->
+      <map code="0xfb39" name="uniFB39"/><!-- HEBREW LETTER YOD WITH DAGESH -->
+      <map code="0xfb3a" name="uniFB3A"/><!-- HEBREW LETTER FINAL KAF WITH DAGESH -->
+      <map code="0xfb3b" name="uniFB3B"/><!-- HEBREW LETTER KAF WITH DAGESH -->
+      <map code="0xfb3c" name="uniFB3C"/><!-- HEBREW LETTER LAMED WITH DAGESH -->
+      <map code="0xfb3e" name="uniFB3E"/><!-- HEBREW LETTER MEM WITH DAGESH -->
+      <map code="0xfb40" name="uniFB40"/><!-- HEBREW LETTER NUN WITH DAGESH -->
+      <map code="0xfb41" name="uniFB41"/><!-- HEBREW LETTER SAMEKH WITH DAGESH -->
+      <map code="0xfb43" name="uniFB43"/><!-- HEBREW LETTER FINAL PE WITH DAGESH -->
+      <map code="0xfb44" name="uniFB44"/><!-- HEBREW LETTER PE WITH DAGESH -->
+      <map code="0xfb46" name="uniFB46"/><!-- HEBREW LETTER TSADI WITH DAGESH -->
+      <map code="0xfb47" name="uniFB47"/><!-- HEBREW LETTER QOF WITH DAGESH -->
+      <map code="0xfb48" name="uniFB48"/><!-- HEBREW LETTER RESH WITH DAGESH -->
+      <map code="0xfb49" name="uniFB49"/><!-- HEBREW LETTER SHIN WITH DAGESH -->
+      <map code="0xfb4a" name="uniFB4A"/><!-- HEBREW LETTER TAV WITH DAGESH -->
+      <map code="0xfb4b" name="uniFB4B"/><!-- HEBREW LETTER VAV WITH HOLAM -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
