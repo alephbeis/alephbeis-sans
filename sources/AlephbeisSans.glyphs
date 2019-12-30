@@ -30,6 +30,31 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+100 = 10;
+200 = 16;
+300 = 37;
+400 = 57;
+500 = 75;
+600 = 109;
+700 = 137;
+800 = 176;
+900 = 210;
+};
+};
 }
 );
 date = "2019-11-26 10:42:36 +0000";
@@ -17505,7 +17530,6 @@ width = 600;
 );
 instances = (
 {
-exports = 0;
 customParameters = (
 {
 name = weightClass;
@@ -17523,7 +17547,7 @@ weightClass = Thin;
 customParameters = (
 {
 name = weightClass;
-value = 250;
+value = 100;
 }
 );
 interpolationWeight = 10;
@@ -17538,7 +17562,7 @@ weightClass = Thin;
 customParameters = (
 {
 name = weightClass;
-value = 275;
+value = 200;
 }
 );
 interpolationWeight = 16;

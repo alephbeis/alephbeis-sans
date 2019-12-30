@@ -6,7 +6,7 @@
          will be recalculated by the compiler -->
     <version value="4"/>
     <xAvgCharWidth value="510"/>
-    <usWeightClass value="100"/>
+    <usWeightClass value="50"/>
     <usWidthClass value="5"/>
     <fsType value="00000000 00000000"/>
     <ySubscriptXSize value="650"/>

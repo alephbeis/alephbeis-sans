@@ -12,16 +12,16 @@
     <cv index="7" value="0"/>
     <cv index="8" value="0"/>
     <cv index="9" value="0"/>
-    <cv index="10" value="34"/>
-    <cv index="11" value="34"/>
-    <cv index="12" value="34"/>
-    <cv index="13" value="34"/>
+    <cv index="10" value="37"/>
+    <cv index="11" value="37"/>
+    <cv index="12" value="37"/>
+    <cv index="13" value="37"/>
     <cv index="14" value="559"/>
     <cv index="15" value="0"/>
-    <cv index="16" value="-139"/>
+    <cv index="16" value="-140"/>
     <cv index="17" value="559"/>
-    <cv index="18" value="-6"/>
-    <cv index="19" value="-139"/>
+    <cv index="18" value="-7"/>
+    <cv index="19" value="-140"/>
   </cvt>
 
 </ttFont>

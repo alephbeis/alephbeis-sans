@@ -5,14 +5,14 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="1.5"/>
-    <checkSumAdjustment value="0xb905f6b1"/>
+    <checkSumAdjustment value="0x28e8ac69"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00001111"/>
     <unitsPerEm value="1000"/>
     <created value="Tue Nov 26 10:42:36 2019"/>
-    <modified value="Tue Dec  3 16:52:45 2019"/>
+    <modified value="Mon Dec 30 21:55:36 2019"/>
     <xMin value="-162"/>
-    <yMin value="-356"/>
+    <yMin value="-357"/>
     <xMax value="813"/>
     <yMax value="750"/>
     <macStyle value="00000000 00000000"/>
