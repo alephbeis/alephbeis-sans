@@ -770,7 +770,7 @@
               <BaseAnchor index="0" empty="1"/>
               <BaseAnchor index="1" Format="1">
                 <XCoordinate value="229"/>
-                <YCoordinate value="425"/>
+                <YCoordinate value="352"/>
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="20"/>
@@ -782,14 +782,14 @@
               </BaseAnchor>
               <BaseAnchor index="4" Format="1">
                 <XCoordinate value="230"/>
-                <YCoordinate value="277"/>
+                <YCoordinate value="385"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="23">
               <BaseAnchor index="0" empty="1"/>
               <BaseAnchor index="1" Format="1">
                 <XCoordinate value="229"/>
-                <YCoordinate value="425"/>
+                <YCoordinate value="352"/>
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="20"/>
@@ -801,7 +801,7 @@
               </BaseAnchor>
               <BaseAnchor index="4" Format="1">
                 <XCoordinate value="230"/>
-                <YCoordinate value="277"/>
+                <YCoordinate value="385"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="24">

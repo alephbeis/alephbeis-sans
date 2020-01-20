@@ -802,7 +802,7 @@
               <BaseAnchor index="0" empty="1"/>
               <BaseAnchor index="1" Format="1">
                 <XCoordinate value="145"/>
-                <YCoordinate value="372"/>
+                <YCoordinate value="270"/>
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="16"/>
@@ -813,15 +813,15 @@
                 <YCoordinate value="556"/>
               </BaseAnchor>
               <BaseAnchor index="4" Format="1">
-                <XCoordinate value="153"/>
-                <YCoordinate value="251"/>
+                <XCoordinate value="144"/>
+                <YCoordinate value="276"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="23">
               <BaseAnchor index="0" empty="1"/>
               <BaseAnchor index="1" Format="1">
                 <XCoordinate value="145"/>
-                <YCoordinate value="372"/>
+                <YCoordinate value="270"/>
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
                 <XCoordinate value="16"/>
@@ -832,8 +832,8 @@
                 <YCoordinate value="556"/>
               </BaseAnchor>
               <BaseAnchor index="4" Format="1">
-                <XCoordinate value="153"/>
-                <YCoordinate value="251"/>
+                <XCoordinate value="144"/>
+                <YCoordinate value="276"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="24">

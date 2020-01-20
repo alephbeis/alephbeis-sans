@@ -4187,13 +4187,13 @@
 
     <TTGlyph name="uniFB3A" xMin="61" yMin="-152" xMax="493" yMax="556">
       <component glyphName="uni05DA" x="0" y="0" flags="0x204"/>
-      <component glyphName="uni05BC" x="165" y="60" flags="0x4"/>
+      <component glyphName="uni05BC" x="150" y="128" flags="0x4"/>
       <instructions>
         <assembly>
           PUSHB[ ]	/* 2 values pushed */
           1 1
           PUSHB[ ]	/* 1 value pushed */
-          60
+          128
           PUSHB[ ]	/* 1 value pushed */
           53
           CALL[ ]	/* CallFunction */
