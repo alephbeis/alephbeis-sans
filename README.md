@@ -13,9 +13,11 @@ Features:
 
 ## About The Authors
 
-***Missing text about Alephbeis***
-
+**Meir Sadan** | Principal Design<br>
 [Meir Sadan](https://meirsadan.com/) is a type designer, graphic designer and educator based in Tel Aviv. He specializes in creating and manipulating type by using creative coding techniques and some hackery. His knowledge of technology, theory of design and type history intersect to become his tools of the trade.
+
+**Alephbeis** | Contributors<br>
+[Alephbeis](https://alephbeis.org/) is an educational company that builds innovative, educational software and products. Alephbeis is led by [Shmuel Barkin](http://sbarkin.com/) & [Tova Rottenberg](https://www.linkedin.com/in/tova-rottenberg/). Shmuel uses his combined knowledge of process, technology and design to build software applications. Tova is a veteran award-winning teacher with a Masters in Education. Yocheved Ismach contributes to Alephbeis projects as a Creative Director.
 
 ## Using This Typeface
 
